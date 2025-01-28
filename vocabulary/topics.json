@@ -1,0 +1,98 @@
+{
+  "art": {
+    "name": { "ru": "искусство", "he": "אומנות" },
+    "style": { "img": "vocabulary/icons/palette.png" }
+  },
+  "bank": {
+    "name": { "ru": "банк" },
+    "style": { "icon": "account_balance" }
+  },
+  "cafe": {
+    "name": { "ru": "кафе" },
+    "style": { "img": "vocabulary/icons/fast-food.png" }
+  },
+  "car": {
+    "name": { "ru": "машина" },
+    "style": { "icon": "drive_eta" }
+  },
+  "clothes": {
+    "name": { "ru": "одежда" },
+    "style": { "icon": "checkroom" }
+  },
+  "compare": {
+    "name": { "ru": "сравнение" },
+    "style": { "img": "vocabulary/icons/scales.png" }
+  },
+  "dir": {
+    "name": { "ru": "направл." },
+    "style": { "icon": "navigation" }
+  },
+  "figures": {
+    "name": { "ru": "фигуры" },
+    "style": { "img": "vocabulary/icons/geometric.png" }
+  },
+  "foods": {
+    "name": { "ru": "продукты" },
+    "style": { "img": "vocabulary/icons/foods.png" }
+  },
+  "fruits": {
+    "name": { "ru": "плоды", "he": "פֵּרוֹת" },
+    "style": { "img": "vocabulary/icons/fruits.png" }
+  },
+  "groceries": {
+    "name": { "ru": "бакалея", "he": "מכולת" },
+    "style": { "img": "vocabulary/icons/sack.png" }
+  },
+  "health": {
+    "name": { "ru": "здоровье", "he": "בְּרִיאוּת" },
+    "style": { "img": "vocabulary/icons/first-aid.png" }
+  },
+  "home": {
+    "name": { "ru": "дом" },
+    "style": { "img": "vocabulary/icons/house.png" }
+  },
+  "landscape": {
+    "name": { "ru": "ландшафт", "he": "נוֹף" },
+    "style": { "img": "vocabulary/icons/landscape.png" }
+  },
+  "misc": {
+    "name": { "ru": "разное" },
+    "style": { "icon": "bookmark" }
+  },
+  "pronouns": {
+    "name": { "ru": "местоимен.", "he": "כינויי" },
+    "style": { "icon": "diversity_3" }
+  },
+  "numbers": {
+    "name": { "ru": "числа", "he": "מספרים" },
+    "style": { "icon": "numbers" }
+  },
+  "post": {
+    "name": { "ru": "почта" },
+    "style": { "img": "vocabulary/icons/mailbox.png" }
+  },
+  "shop": {
+    "name": { "ru": "магазин", "he": "חנות" },
+    "style": { "img": "vocabulary/icons/shopping-cart.png" }
+  },
+  "sport": {
+    "name": { "ru": "спорт" },
+    "style": { "icon": "sports_football" }
+  },
+  "time": {
+    "name": { "ru": "время" },
+    "style": { "icon": "schedule" }
+  },
+  "transport": {
+    "name": { "ru": "транспорт" },
+    "style": { "icon": "directions_bus" }
+  },
+  "urban": {
+    "name": { "ru": "город", "he": "עִיר" },
+    "style": { "icon": "location_city" }
+  },
+  "weather": {
+    "name": { "ru": "погода", "he": "מֶזֶג אֲוִיר" },
+    "style": { "img": "vocabulary/icons/weather.png" }
+  }
+}
