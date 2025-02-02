@@ -968,7 +968,7 @@
       "nested": {
         "henum-1": {
           "style": {
-            "img": "images/numbers/henum-1.webp"
+            "img": "images/he-numbers/henum-1.webp"
           },
           "forms": {
             "ru": { "W": "1" },
@@ -978,7 +978,7 @@
         },
         "henum-2": {
           "style": {
-            "img": "images/numbers/henum-2.webp"
+            "img": "images/he-numbers/henum-2.webp"
           },
           "forms": {
             "ru": { "W": "2" },
@@ -988,7 +988,7 @@
         },
         "henum-3": {
           "style": {
-            "img": "images/numbers/henum-3.webp"
+            "img": "images/he-numbers/henum-3.webp"
           },
           "forms": {
             "ru": { "W": "3" },
@@ -998,7 +998,7 @@
         },
         "henum-4": {
           "style": {
-            "img": "images/numbers/henum-4.webp"
+            "img": "images/he-numbers/henum-4.webp"
           },
           "forms": {
             "ru": { "W": "4" },
@@ -1008,7 +1008,7 @@
         },
         "henum-5": {
           "style": {
-            "img": "images/numbers/henum-5.webp"
+            "img": "images/he-numbers/henum-5.webp"
           },
           "forms": {
             "ru": { "W": "5" },
@@ -1018,7 +1018,7 @@
         },
         "henum-6": {
           "style": {
-            "img": "images/numbers/henum-6.webp"
+            "img": "images/he-numbers/henum-6.webp"
           },
           "forms": {
             "ru": { "W": "6" },
@@ -1028,7 +1028,7 @@
         },
         "henum-7": {
           "style": {
-            "img": "images/numbers/henum-7.webp"
+            "img": "images/he-numbers/henum-7.webp"
           },
           "forms": {
             "ru": { "W": "7" },
@@ -1038,7 +1038,7 @@
         },
         "henum-8": {
           "style": {
-            "img": "images/numbers/henum-8.webp"
+            "img": "images/he-numbers/henum-8.webp"
           },
           "forms": {
             "ru": { "W": "8" },
@@ -1048,7 +1048,7 @@
         },
         "henum-9": {
           "style": {
-            "img": "images/numbers/henum-9.webp"
+            "img": "images/he-numbers/henum-9.webp"
           },
           "forms": {
             "ru": { "W": "9" },
@@ -1058,7 +1058,7 @@
         },
         "henum-10": {
           "style": {
-            "img": "images/numbers/henum-10.webp"
+            "img": "images/he-numbers/henum-10.webp"
           },
           "forms": {
             "ru": { "W": "10" },
@@ -1068,7 +1068,7 @@
         },
         "henum-20": {
           "style": {
-            "img": "images/numbers/henum-20.webp"
+            "img": "images/he-numbers/henum-20.webp"
           },
           "forms": {
             "ru": { "W": "20" },
@@ -1078,7 +1078,7 @@
         },
         "henum-30": {
           "style": {
-            "img": "images/numbers/henum-30.webp"
+            "img": "images/he-numbers/henum-30.webp"
           },
           "forms": {
             "ru": { "W": "30" },
@@ -1088,7 +1088,7 @@
         },
         "henum-40": {
           "style": {
-            "img": "images/numbers/henum-40.webp"
+            "img": "images/he-numbers/henum-40.webp"
           },
           "forms": {
             "ru": { "W": "40" },
@@ -1098,7 +1098,7 @@
         },
         "henum-50": {
           "style": {
-            "img": "images/numbers/henum-50.webp"
+            "img": "images/he-numbers/henum-50.webp"
           },
           "forms": {
             "ru": { "W": "50" },
@@ -1108,7 +1108,7 @@
         },
         "henum-60": {
           "style": {
-            "img": "images/numbers/henum-60.webp"
+            "img": "images/he-numbers/henum-60.webp"
           },
           "forms": {
             "ru": { "W": "60" },
@@ -1118,7 +1118,7 @@
         },
         "henum-70": {
           "style": {
-            "img": "images/numbers/henum-70.webp"
+            "img": "images/he-numbers/henum-70.webp"
           },
           "forms": {
             "ru": { "W": "70" },
@@ -1128,7 +1128,7 @@
         },
         "henum-80": {
           "style": {
-            "img": "images/numbers/henum-80.webp"
+            "img": "images/he-numbers/henum-80.webp"
           },
           "forms": {
             "ru": { "W": "80" },
@@ -1138,7 +1138,7 @@
         },
         "henum-90": {
           "style": {
-            "img": "images/numbers/henum-90.webp"
+            "img": "images/he-numbers/henum-90.webp"
           },
           "forms": {
             "ru": { "W": "90" },
@@ -1148,7 +1148,7 @@
         },
         "henum-100": {
           "style": {
-            "img": "images/numbers/henum-100.webp"
+            "img": "images/he-numbers/henum-100.webp"
           },
           "forms": {
             "ru": { "W": "100" },
@@ -1158,7 +1158,7 @@
         },
         "henum-200": {
           "style": {
-            "img": "images/numbers/henum-200.webp"
+            "img": "images/he-numbers/henum-200.webp"
           },
           "forms": {
             "ru": { "W": "200" },
@@ -1168,7 +1168,7 @@
         },
         "henum-300": {
           "style": {
-            "img": "images/numbers/henum-300.webp"
+            "img": "images/he-numbers/henum-300.webp"
           },
           "forms": {
             "ru": { "W": "300" },
@@ -1178,7 +1178,7 @@
         },
         "henum-400": {
           "style": {
-            "img": "images/numbers/henum-400.webp"
+            "img": "images/he-numbers/henum-400.webp"
           },
           "forms": {
             "ru": { "W": "400" },
@@ -1188,7 +1188,7 @@
         },
         "henum-500": {
           "style": {
-            "img": "images/numbers/henum-500.webp"
+            "img": "images/he-numbers/henum-500.webp"
           },
           "forms": {
             "ru": { "W": "500" },
@@ -1198,7 +1198,7 @@
         },
         "henum-600": {
           "style": {
-            "img": "images/numbers/henum-600.webp"
+            "img": "images/he-numbers/henum-600.webp"
           },
           "forms": {
             "ru": { "W": "600" },
@@ -1208,7 +1208,7 @@
         },
         "henum-700": {
           "style": {
-            "img": "images/numbers/henum-700.webp"
+            "img": "images/he-numbers/henum-700.webp"
           },
           "forms": {
             "ru": { "W": "700" },
@@ -1218,7 +1218,7 @@
         },
         "henum-800": {
           "style": {
-            "img": "images/numbers/henum-800.webp"
+            "img": "images/he-numbers/henum-800.webp"
           },
           "forms": {
             "ru": { "W": "800" },
@@ -1228,7 +1228,7 @@
         },
         "henum-900": {
           "style": {
-            "img": "images/numbers/henum-900.webp"
+            "img": "images/he-numbers/henum-900.webp"
           },
           "forms": {
             "ru": { "W": "900" },

@@ -27,21 +27,13 @@
     "name": { "ru": "направл." },
     "style": { "icon": "navigation" }
   },
-  "figures": {
-    "name": { "ru": "фигуры" },
-    "style": { "img": "vocabulary/icons/geometric.png" }
-  },
-  "foods": {
-    "name": { "ru": "продукты" },
-    "style": { "img": "vocabulary/icons/foods.png" }
-  },
   "fruits": {
     "name": { "ru": "плоды", "he": "פֵּרוֹת" },
     "style": { "img": "vocabulary/icons/fruits.png" }
   },
-  "groceries": {
-    "name": { "ru": "бакалея", "he": "מכולת" },
-    "style": { "img": "vocabulary/icons/sack.png" }
+  "foods": {
+    "name": { "ru": "продукты", "he": "מזון" },
+    "style": { "img": "vocabulary/icons/grocery-cart.png" }
   },
   "health": {
     "name": { "ru": "здоровье", "he": "בְּרִיאוּת" },
@@ -70,10 +62,6 @@
   "post": {
     "name": { "ru": "почта" },
     "style": { "img": "vocabulary/icons/mailbox.png" }
-  },
-  "shop": {
-    "name": { "ru": "магазин", "he": "חנות" },
-    "style": { "img": "vocabulary/icons/shopping-cart.png" }
   },
   "sport": {
     "name": { "ru": "спорт" },
