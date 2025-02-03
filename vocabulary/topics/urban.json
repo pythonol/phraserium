@@ -60,6 +60,26 @@
         }
       }
     },
+    "map": {
+      "gender": {
+        "ru": "F",
+        "he": "F"
+      },
+      "forms": {
+        "ru": {
+          "S": { "W": "карта" },
+          "P": { "W": "карты" }
+        },
+        "en": {
+          "S": { "W": "map", "T": "mæp" },
+          "P": { "W": "maps", "T": "mæps" }
+        },
+        "he": {
+          "S": { "W": "מַפָּה", "T": "мапа́" },
+          "P": { "W": "מַפּוֹת", "T": "мапо́т" }
+        }
+      }
+    },
 
     "place": {
       "order": 250,
@@ -300,6 +320,9 @@
 
     "road": {
       "order": 260,
+      "style": {
+        "icon": "navigation"
+      },
       "gender": {
         "ru": "F",
         "he": "F"
@@ -528,7 +551,7 @@
     },
 
     "middle_east": {
-      "order": 280,
+      "order": 290,
       "expanded": true,
       "forms": {
         "ru": { "W": "Ближний Восток" },
@@ -547,6 +570,13 @@
           },
           "comments": {
             "ru": "Земля Израильская, Земля Израиля - אֶרֶץ יִשְׂרָאֵל Эрец-Исраэль"
+          }
+        },
+        "Western Wall": {
+          "forms": {
+            "ru": { "W": "Стена плача" },
+            "en": { "W": "Western Wall", "T": "wes.tɚn wɑːl" },
+            "he": { "W": "הַכּוֹתֶל הַמַּעֲרָבִי", "T": "hа-котэль hа-маарав" }
           }
         },
         "mediterranean_sea": {
@@ -574,7 +604,10 @@
     },
 
     "state": {
-      "order": 390,
+      "order": 280,
+      "style": {
+        "icon": "flag"
+      },
       "expanded": true,
       "gender": {
         "ru": "N",
