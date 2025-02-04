@@ -506,7 +506,7 @@
           "style": { "img": "vocabulary/icons/tram.png" },
           "gender": {
             "ru": "M",
-            "he": "M"
+            "he": "F"
           },
           "forms": {
             "ru": {
@@ -527,7 +527,7 @@
           "style": { "img": "vocabulary/icons/train.png" },
           "gender": {
             "ru": "M",
-            "he": "M"
+            "he": "F"
           },
           "forms": {
             "ru": {
@@ -548,7 +548,7 @@
           "style": { "img": "vocabulary/icons/subway.png" },
           "gender": {
             "ru": "N",
-            "he": "M"
+            "he": "F"
           },
           "forms": {
             "ru": { "W": "метро" },
@@ -598,11 +598,23 @@
             }
           }
         },
+        "taxi": {
+          "style": { "img": "vocabulary/icons/taxi.png" },
+          "gender": {
+            "ru": "N",
+            "he": "F"
+          },
+          "forms": {
+            "ru": { "W": "такси" },
+            "en": { "W": "taxi", "T": "ˈtæk.si" },
+            "he": { "W": "מוֹנִית", "T": "мони́т" }
+          }
+        },
         "car": {
           "style": { "img": "vocabulary/icons/car.png" },
           "gender": {
             "ru": "M",
-            "he": "M"
+            "he": "F"
           },
           "forms": {
             "ru": {
@@ -623,7 +635,7 @@
           "style": { "img": "vocabulary/icons/truck.png" },
           "gender": {
             "ru": "F",
-            "he": "M"
+            "he": "F"
           },
           "forms": {
             "ru": {
@@ -655,10 +667,10 @@
               "S": { "W": "bicycle", "T": "ˈbaɪ.sɪ.kəl" },
               "P": { "W": "bicycles", "T": "ˈbaɪ.sɪ.kəlz" }
             },
-            "he": {
-              "S": { "W": "אוֹפַנַּיִם", "T": "офана́йим" },
-              "P": { "W": "אוֹפַנַּיִם", "T": "офана́йим" }
-            }
+            "he": { "W": "אוֹפַנַּיִם", "T": "офана́йим" }
+          },
+          "comments": {
+            "ru-he": "Образовано от אוֹפַןּ - офан (колесо)."
           }
         },
         "motorcycle": {
@@ -770,7 +782,7 @@
           "style": { "img": "vocabulary/icons/tanker.png" },
           "gender": {
             "ru": "M",
-            "he": "M"
+            "he": "F"
           },
           "forms": {
             "ru": {
