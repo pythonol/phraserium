@@ -71,10 +71,6 @@
     "name": { "ru": "время" },
     "style": { "icon": "schedule" }
   },
-  "transport": {
-    "name": { "ru": "транспорт" },
-    "style": { "icon": "directions_bus" }
-  },
   "urban": {
     "name": { "ru": "город", "he": "עִיר" },
     "style": { "icon": "location_city" }
