@@ -356,6 +356,7 @@
           }
         },
         "travel_card": {
+          "order": 10,
           "gender": {
             "ru": "M",
             "he": "M"
