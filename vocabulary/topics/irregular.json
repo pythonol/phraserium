@@ -123,8 +123,7 @@
     "vforms": {
       "en": {
         "present": { "W": "bend", "T": "bend" },
-        "past": { "W": "bent", "T": "bent" },
-        "participle": { "W": "bent", "T": "bent" }
+        "past": { "W": "bent", "T": "bent" }
       },
       "ru": {
         "inf": { "W": "гнуть" },
@@ -143,13 +142,12 @@
     "vforms": {
       "en": {
         "present": { "W": "bet", "T": "bet" },
-        "past": { "W": "bet", "T": "bet" },
-        "participle": { "W": "bet", "T": "bet" }
+        "past": { "W": "bet", "T": "bet" }
       },
       "ru": {
-        "inf": { "W": "держать пари" },
-        "present": { "W": "держу пари" },
-        "past": { "W": "держал пари" }
+        "inf": { "W": "делать ставку" },
+        "present": { "W": "делаю ставку" },
+        "past": { "W": "делал ставку" }
       },
       "he": {
         "inf": { "W": "לְהַמֵר", "T": "леhаме́р" },
@@ -163,8 +161,7 @@
     "vforms": {
       "en": {
         "present": { "W": "bind", "T": "baɪnd" },
-        "past": { "W": "bound", "T": "baʊnd" },
-        "participle": { "W": "bound", "T": "baʊnd" }
+        "past": { "W": "bound", "T": "baʊnd" }
       },
       "ru": {
         "inf": { "W": "связывать" },
@@ -203,8 +200,7 @@
     "vforms": {
       "en": {
         "present": { "W": "bleed", "T": "blid" },
-        "past": { "W": "bled", "T": "bled" },
-        "participle": { "W": "bled", "T": "bled" }
+        "past": { "W": "bled", "T": "bled" }
       },
       "ru": {
         "inf": { "W": "кровоточить" },
@@ -263,8 +259,7 @@
     "vforms": {
       "en": {
         "present": { "W": "breed", "T": "brid" },
-        "past": { "W": "bred", "T": "bred" },
-        "participle": { "W": "bred", "T": "bred" }
+        "past": { "W": "bred", "T": "bred" }
       },
       "ru": {
         "inf": { "W": "разводить" },
@@ -283,8 +278,7 @@
     "vforms": {
       "en": {
         "present": { "W": "bring", "T": "brɪŋ" },
-        "past": { "W": "brought", "T": "brɔt" },
-        "participle": { "W": "brought", "T": "brɔt" }
+        "past": { "W": "brought", "T": "brɔt" }
       },
       "ru": {
         "inf": { "W": "приносить" },
@@ -303,8 +297,7 @@
     "vforms": {
       "en": {
         "present": { "W": "build", "T": "bɪld" },
-        "past": { "W": "built", "T": "bɪlt" },
-        "participle": { "W": "built", "T": "bɪlt" }
+        "past": { "W": "built", "T": "bɪlt" }
       },
       "ru": {
         "inf": { "W": "строить" },
@@ -323,8 +316,7 @@
     "vforms": {
       "en": {
         "present": { "W": "burst", "T": "bɜrst" },
-        "past": { "W": "burst", "T": "bɜrst" },
-        "participle": { "W": "burst", "T": "bɜrst" }
+        "past": { "W": "burst", "T": "bɜrst" }
       },
       "ru": {
         "inf": { "W": "взрываться" },
@@ -343,8 +335,7 @@
     "vforms": {
       "en": {
         "present": { "W": "buy", "T": "baɪ" },
-        "past": { "W": "bought", "T": "bɔt" },
-        "participle": { "W": "bought", "T": "bɔt" }
+        "past": { "W": "bought", "T": "bɔt" }
       },
       "ru": {
         "inf": { "W": "покупать" },
@@ -363,8 +354,7 @@
     "vforms": {
       "en": {
         "present": { "W": "can", "T": "kæn" },
-        "past": { "W": "could", "T": "kʊd" },
-        "participle": { "W": "could", "T": "kʊd" }
+        "past": { "W": "could", "T": "kʊd" }
       },
       "ru": {
         "inf": { "W": "мочь" },
@@ -383,8 +373,7 @@
     "vforms": {
       "en": {
         "present": { "W": "catch", "T": "kætʃ" },
-        "past": { "W": "caught", "T": "kɔt" },
-        "participle": { "W": "caught", "T": "kɔt" }
+        "past": { "W": "caught", "T": "kɔt" }
       },
       "ru": {
         "inf": { "W": "ловить" },
@@ -423,8 +412,7 @@
     "vforms": {
       "en": {
         "present": { "W": "cling", "T": "klɪŋ" },
-        "past": { "W": "clung", "T": "klʌŋ" },
-        "participle": { "W": "clung", "T": "klʌŋ" }
+        "past": { "W": "clung", "T": "klʌŋ" }
       },
       "ru": {
         "inf": { "W": "цепляться" },
@@ -463,8 +451,7 @@
     "vforms": {
       "en": {
         "present": { "W": "cost", "T": "kɔst" },
-        "past": { "W": "cost", "T": "kɔst" },
-        "participle": { "W": "cost", "T": "kɔst" }
+        "past": { "W": "cost", "T": "kɔst" }
       },
       "ru": {
         "inf": { "W": "стоить" },
@@ -483,8 +470,7 @@
     "vforms": {
       "en": {
         "present": { "W": "creep", "T": "krip" },
-        "past": { "W": "crept", "T": "krept" },
-        "participle": { "W": "crept", "T": "krept" }
+        "past": { "W": "crept", "T": "krept" }
       },
       "ru": {
         "inf": { "W": "ползти" },
@@ -503,8 +489,7 @@
     "vforms": {
       "en": {
         "present": { "W": "cut", "T": "kʌt" },
-        "past": { "W": "cut", "T": "kʌt" },
-        "participle": { "W": "cut", "T": "kʌt" }
+        "past": { "W": "cut", "T": "kʌt" }
       },
       "ru": {
         "inf": { "W": "резать" },
@@ -643,8 +628,7 @@
     "vforms": {
       "en": {
         "present": { "W": "feed", "T": "fid" },
-        "past": { "W": "fed", "T": "fed" },
-        "participle": { "W": "fed", "T": "fed" }
+        "past": { "W": "fed", "T": "fed" }
       },
       "ru": {
         "inf": { "W": "кормить" },
@@ -663,8 +647,7 @@
     "vforms": {
       "en": {
         "present": { "W": "feel", "T": "fil" },
-        "past": { "W": "felt", "T": "felt" },
-        "participle": { "W": "felt", "T": "felt" }
+        "past": { "W": "felt", "T": "felt" }
       },
       "ru": {
         "inf": { "W": "чувствовать" },
@@ -683,8 +666,7 @@
     "vforms": {
       "en": {
         "present": { "W": "fight", "T": "faɪt" },
-        "past": { "W": "fought", "T": "fɔt" },
-        "participle": { "W": "fought", "T": "fɔt" }
+        "past": { "W": "fought", "T": "fɔt" }
       },
       "ru": {
         "inf": { "W": "драться" },
@@ -703,8 +685,7 @@
     "vforms": {
       "en": {
         "present": { "W": "find", "T": "faɪnd" },
-        "past": { "W": "found", "T": "faʊnd" },
-        "participle": { "W": "found", "T": "faʊnd" }
+        "past": { "W": "found", "T": "faʊnd" }
       },
       "ru": {
         "inf": { "W": "находить" },
@@ -823,8 +804,7 @@
     "vforms": {
       "en": {
         "present": { "W": "get", "T": "ɡet" },
-        "past": { "W": "got", "T": "ɡɑt" },
-        "participle": { "W": "got/gotten", "T": "ɡɑt/ˈɡɑtən" }
+        "past": { "W": "got", "T": "ɡɑt" }
       },
       "ru": {
         "inf": { "W": "получать" },
@@ -883,8 +863,7 @@
     "vforms": {
       "en": {
         "present": { "W": "grind", "T": "ɡraɪnd" },
-        "past": { "W": "ground", "T": "ɡraʊnd" },
-        "participle": { "W": "ground", "T": "ɡraʊnd" }
+        "past": { "W": "ground", "T": "ɡraʊnd" }
       },
       "ru": {
         "inf": { "W": "молоть" },
@@ -923,8 +902,7 @@
     "vforms": {
       "en": {
         "present": { "W": "hang", "T": "hæŋ" },
-        "past": { "W": "hung", "T": "hʌŋ" },
-        "participle": { "W": "hung", "T": "hʌŋ" }
+        "past": { "W": "hung", "T": "hʌŋ" }
       },
       "ru": {
         "inf": { "W": "вешать" },
@@ -943,8 +921,7 @@
     "vforms": {
       "en": {
         "present": { "W": "have", "T": "hæv" },
-        "past": { "W": "had", "T": "hæd" },
-        "participle": { "W": "had", "T": "hæd" }
+        "past": { "W": "had", "T": "hæd" }
       },
       "ru": {
         "inf": { "W": "иметь" },
@@ -963,8 +940,7 @@
     "vforms": {
       "en": {
         "present": { "W": "hear", "T": "hɪr" },
-        "past": { "W": "heard", "T": "hɜrd" },
-        "participle": { "W": "heard", "T": "hɜrd" }
+        "past": { "W": "heard", "T": "hɜrd" }
       },
       "ru": {
         "inf": { "W": "слышать" },
@@ -1003,8 +979,7 @@
     "vforms": {
       "en": {
         "present": { "W": "hit", "T": "hɪt" },
-        "past": { "W": "hit", "T": "hɪt" },
-        "participle": { "W": "hit", "T": "hɪt" }
+        "past": { "W": "hit", "T": "hɪt" }
       },
       "ru": {
         "inf": { "W": "ударять" },
@@ -1023,8 +998,7 @@
     "vforms": {
       "en": {
         "present": { "W": "hold", "T": "hoʊld" },
-        "past": { "W": "held", "T": "held" },
-        "participle": { "W": "held", "T": "held" }
+        "past": { "W": "held", "T": "held" }
       },
       "ru": {
         "inf": { "W": "держать" },
@@ -1043,8 +1017,7 @@
     "vforms": {
       "en": {
         "present": { "W": "hurt", "T": "hɜrt" },
-        "past": { "W": "hurt", "T": "hɜrt" },
-        "participle": { "W": "hurt", "T": "hɜrt" }
+        "past": { "W": "hurt", "T": "hɜrt" }
       },
       "ru": {
         "inf": { "W": "причинять боль" },
@@ -1063,8 +1036,7 @@
     "vforms": {
       "en": {
         "present": { "W": "keep", "T": "kip" },
-        "past": { "W": "kept", "T": "kept" },
-        "participle": { "W": "kept", "T": "kept" }
+        "past": { "W": "kept", "T": "kept" }
       },
       "ru": {
         "inf": { "W": "хранить" },
@@ -1083,8 +1055,7 @@
     "vforms": {
       "en": {
         "present": { "W": "kneel", "T": "niːl" },
-        "past": { "W": "knelt", "T": "nelt" },
-        "participle": { "W": "knelt", "T": "nelt" }
+        "past": { "W": "knelt", "T": "nelt" }
       },
       "ru": {
         "inf": { "W": "становиться на колени" },
@@ -1123,8 +1094,7 @@
     "vforms": {
       "en": {
         "present": { "W": "lay", "T": "leɪ" },
-        "past": { "W": "laid", "T": "leɪd" },
-        "participle": { "W": "laid", "T": "leɪd" }
+        "past": { "W": "laid", "T": "leɪd" }
       },
       "ru": {
         "inf": { "W": "класть" },
@@ -1143,8 +1113,7 @@
     "vforms": {
       "en": {
         "present": { "W": "lead", "T": "liːd" },
-        "past": { "W": "led", "T": "led" },
-        "participle": { "W": "led", "T": "led" }
+        "past": { "W": "led", "T": "led" }
       },
       "ru": {
         "inf": { "W": "вести" },
@@ -1163,8 +1132,7 @@
     "vforms": {
       "en": {
         "present": { "W": "leave", "T": "liːv" },
-        "past": { "W": "left", "T": "left" },
-        "participle": { "W": "left", "T": "left" }
+        "past": { "W": "left", "T": "left" }
       },
       "ru": {
         "inf": { "W": "уходить" },
@@ -1183,8 +1151,7 @@
     "vforms": {
       "en": {
         "present": { "W": "lend", "T": "lend" },
-        "past": { "W": "lent", "T": "lent" },
-        "participle": { "W": "lent", "T": "lent" }
+        "past": { "W": "lent", "T": "lent" }
       },
       "ru": {
         "inf": { "W": "одалживать" },
@@ -1223,8 +1190,7 @@
     "vforms": {
       "en": {
         "present": { "W": "lose", "T": "luːz" },
-        "past": { "W": "lost", "T": "lɔst" },
-        "participle": { "W": "lost", "T": "lɔst" }
+        "past": { "W": "lost", "T": "lɔst" }
       },
       "ru": {
         "inf": { "W": "терять" },
@@ -1243,8 +1209,7 @@
     "vforms": {
       "en": {
         "present": { "W": "make", "T": "meɪk" },
-        "past": { "W": "made", "T": "meɪd" },
-        "participle": { "W": "made", "T": "meɪd" }
+        "past": { "W": "made", "T": "meɪd" }
       },
       "ru": {
         "inf": { "W": "делать" },
@@ -1263,8 +1228,7 @@
     "vforms": {
       "en": {
         "present": { "W": "may", "T": "meɪ" },
-        "past": { "W": "might", "T": "maɪt" },
-        "participle": { "W": "might", "T": "maɪt" }
+        "past": { "W": "might", "T": "maɪt" }
       },
       "ru": {
         "inf": { "W": "мочь" },
@@ -1283,8 +1247,7 @@
     "vforms": {
       "en": {
         "present": { "W": "mean", "T": "miːn" },
-        "past": { "W": "meant", "T": "ment" },
-        "participle": { "W": "meant", "T": "ment" }
+        "past": { "W": "meant", "T": "ment" }
       },
       "ru": {
         "inf": { "W": "означать" },
@@ -1303,8 +1266,7 @@
     "vforms": {
       "en": {
         "present": { "W": "meet", "T": "miːt" },
-        "past": { "W": "met", "T": "met" },
-        "participle": { "W": "met", "T": "met" }
+        "past": { "W": "met", "T": "met" }
       },
       "ru": {
         "inf": { "W": "встречать" },
@@ -1316,26 +1278,6 @@
         "present": { "W": "פּוֹגֵשׁ", "T": "поге́ш" },
         "past": { "W": "פָּגַשְׁתִּי", "T": "пага́шти" },
         "future": { "W": "אֶפְגוֹשׁ", "T": "эфго́ш" }
-      }
-    }
-  },
-  "to must": {
-    "vforms": {
-      "en": {
-        "present": { "W": "must", "T": "mʌst" },
-        "past": { "W": "must", "T": "mʌst" },
-        "participle": { "W": "must", "T": "mʌst" }
-      },
-      "ru": {
-        "inf": { "W": "должен" },
-        "present": { "W": "должен" },
-        "past": { "W": "должен был" }
-      },
-      "he": {
-        "inf": { "W": "חַיָּב", "T": "хая́в" },
-        "present": { "W": "חַיָּב", "T": "хая́в" },
-        "past": { "W": "הָיָה חַיָּב", "T": "hая́ хая́в" },
-        "future": { "W": "יִהְיֶה חַיָּב", "T": "иhье́ хая́в" }
       }
     }
   },
@@ -1363,8 +1305,7 @@
     "vforms": {
       "en": {
         "present": { "W": "pay", "T": "peɪ" },
-        "past": { "W": "paid", "T": "peɪd" },
-        "participle": { "W": "paid", "T": "peɪd" }
+        "past": { "W": "paid", "T": "peɪd" }
       },
       "ru": {
         "inf": { "W": "платить" },
@@ -1383,8 +1324,7 @@
     "vforms": {
       "en": {
         "present": { "W": "put", "T": "pʊt" },
-        "past": { "W": "put", "T": "pʊt" },
-        "participle": { "W": "put", "T": "pʊt" }
+        "past": { "W": "put", "T": "pʊt" }
       },
       "ru": {
         "inf": { "W": "класть" },
@@ -1403,8 +1343,7 @@
     "vforms": {
       "en": {
         "present": { "W": "read", "T": "riːd" },
-        "past": { "W": "read", "T": "red" },
-        "participle": { "W": "read", "T": "red" }
+        "past": { "W": "read", "T": "red" }
       },
       "ru": {
         "inf": { "W": "читать" },
@@ -1523,13 +1462,13 @@
     "vforms": {
       "en": {
         "present": { "W": "say", "T": "seɪ" },
-        "past": { "W": "said", "T": "sed" },
-        "participle": { "W": "said", "T": "sed" }
+        "past": { "W": "said", "T": "sed" }
       },
       "ru": {
         "inf": { "W": "сказать" },
         "present": { "W": "говорю" },
-        "past": { "W": "сказал" }
+        "past": { "W": "сказал" },
+        "future": { "W": "говорить" }
       },
       "he": {
         "inf": { "W": "לוֹמַר", "T": "лома́р" },
@@ -1563,8 +1502,7 @@
     "vforms": {
       "en": {
         "present": { "W": "sell", "T": "sel" },
-        "past": { "W": "sold", "T": "soʊld" },
-        "participle": { "W": "sold", "T": "soʊld" }
+        "past": { "W": "sold", "T": "soʊld" }
       },
       "ru": {
         "inf": { "W": "продавать" },
@@ -1583,8 +1521,7 @@
     "vforms": {
       "en": {
         "present": { "W": "send", "T": "send" },
-        "past": { "W": "sent", "T": "sent" },
-        "participle": { "W": "sent", "T": "sent" }
+        "past": { "W": "sent", "T": "sent" }
       },
       "ru": {
         "inf": { "W": "посылать" },
@@ -1603,8 +1540,7 @@
     "vforms": {
       "en": {
         "present": { "W": "set", "T": "set" },
-        "past": { "W": "set", "T": "set" },
-        "participle": { "W": "set", "T": "set" }
+        "past": { "W": "set", "T": "set" }
       },
       "ru": {
         "inf": { "W": "устанавливать" },
@@ -1643,8 +1579,7 @@
     "vforms": {
       "en": {
         "present": { "W": "shed", "T": "ʃed" },
-        "past": { "W": "shed", "T": "ʃed" },
-        "participle": { "W": "shed", "T": "ʃed" }
+        "past": { "W": "shed", "T": "ʃed" }
       },
       "ru": {
         "inf": { "W": "проливать" },
@@ -1663,8 +1598,7 @@
     "vforms": {
       "en": {
         "present": { "W": "shine", "T": "ʃaɪn" },
-        "past": { "W": "shone", "T": "ʃoʊn" },
-        "participle": { "W": "shone", "T": "ʃoʊn" }
+        "past": { "W": "shone", "T": "ʃoʊn" }
       },
       "ru": {
         "inf": { "W": "светить" },
@@ -1683,8 +1617,7 @@
     "vforms": {
       "en": {
         "present": { "W": "shoot", "T": "ʃuːt" },
-        "past": { "W": "shot", "T": "ʃɒt" },
-        "participle": { "W": "shot", "T": "ʃɒt" }
+        "past": { "W": "shot", "T": "ʃɒt" }
       },
       "ru": {
         "inf": { "W": "стрелять" },
@@ -1743,8 +1676,7 @@
     "vforms": {
       "en": {
         "present": { "W": "shut", "T": "ʃʌt" },
-        "past": { "W": "shut", "T": "ʃʌt" },
-        "participle": { "W": "shut", "T": "ʃʌt" }
+        "past": { "W": "shut", "T": "ʃʌt" }
       },
       "ru": {
         "inf": { "W": "закрывать" },
@@ -1803,8 +1735,7 @@
     "vforms": {
       "en": {
         "present": { "W": "sit", "T": "sɪt" },
-        "past": { "W": "sat", "T": "sæt" },
-        "participle": { "W": "sat", "T": "sæt" }
+        "past": { "W": "sat", "T": "sæt" }
       },
       "ru": {
         "inf": { "W": "сидеть" },
@@ -1823,8 +1754,7 @@
     "vforms": {
       "en": {
         "present": { "W": "sleep", "T": "sliːp" },
-        "past": { "W": "slept", "T": "slept" },
-        "participle": { "W": "slept", "T": "slept" }
+        "past": { "W": "slept", "T": "slept" }
       },
       "ru": {
         "inf": { "W": "спать" },
@@ -1843,8 +1773,7 @@
     "vforms": {
       "en": {
         "present": { "W": "slide", "T": "slaɪd" },
-        "past": { "W": "slid", "T": "slɪd" },
-        "participle": { "W": "slid", "T": "slɪd" }
+        "past": { "W": "slid", "T": "slɪd" }
       },
       "ru": {
         "inf": { "W": "скользить" },
@@ -1863,8 +1792,7 @@
     "vforms": {
       "en": {
         "present": { "W": "smell", "T": "smel" },
-        "past": { "W": "smelt", "T": "smelt" },
-        "participle": { "W": "smelt", "T": "smelt" }
+        "past": { "W": "smelt", "T": "smelt" }
       },
       "ru": {
         "inf": { "W": "пахнуть" },
@@ -1903,8 +1831,7 @@
     "vforms": {
       "en": {
         "present": { "W": "spend", "T": "spend" },
-        "past": { "W": "spent", "T": "spent" },
-        "participle": { "W": "spent", "T": "spent" }
+        "past": { "W": "spent", "T": "spent" }
       },
       "ru": {
         "inf": { "W": "тратить" },
@@ -1923,8 +1850,7 @@
     "vforms": {
       "en": {
         "present": { "W": "spin", "T": "spɪn" },
-        "past": { "W": "spun", "T": "spʌn" },
-        "participle": { "W": "spun", "T": "spʌn" }
+        "past": { "W": "spun", "T": "spʌn" }
       },
       "ru": {
         "inf": { "W": "вращать" },
@@ -1943,8 +1869,7 @@
     "vforms": {
       "en": {
         "present": { "W": "spit", "T": "spɪt" },
-        "past": { "W": "spat", "T": "spæt" },
-        "participle": { "W": "spat", "T": "spæt" }
+        "past": { "W": "spat", "T": "spæt" }
       },
       "ru": {
         "inf": { "W": "плевать" },
@@ -1963,8 +1888,7 @@
     "vforms": {
       "en": {
         "present": { "W": "spread", "T": "spred" },
-        "past": { "W": "spread", "T": "spred" },
-        "participle": { "W": "spread", "T": "spred" }
+        "past": { "W": "spread", "T": "spred" }
       },
       "ru": {
         "inf": { "W": "распространять" },
@@ -1983,8 +1907,7 @@
     "vforms": {
       "en": {
         "present": { "W": "stand", "T": "stænd" },
-        "past": { "W": "stood", "T": "stʊd" },
-        "participle": { "W": "stood", "T": "stʊd" }
+        "past": { "W": "stood", "T": "stʊd" }
       },
       "ru": {
         "inf": { "W": "стоять" },
@@ -2023,8 +1946,7 @@
     "vforms": {
       "en": {
         "present": { "W": "stick", "T": "stɪk" },
-        "past": { "W": "stuck", "T": "stʌk" },
-        "participle": { "W": "stuck", "T": "stʌk" }
+        "past": { "W": "stuck", "T": "stʌk" }
       },
       "ru": {
         "inf": { "W": "приклеивать" },
@@ -2043,8 +1965,7 @@
     "vforms": {
       "en": {
         "present": { "W": "sting", "T": "stɪŋ" },
-        "past": { "W": "stung", "T": "stʌŋ" },
-        "participle": { "W": "stung", "T": "stʌŋ" }
+        "past": { "W": "stung", "T": "stʌŋ" }
       },
       "ru": {
         "inf": { "W": "жалить" },
@@ -2083,8 +2004,7 @@
     "vforms": {
       "en": {
         "present": { "W": "strike", "T": "straɪk" },
-        "past": { "W": "struck", "T": "strʌk" },
-        "participle": { "W": "struck", "T": "strʌk" }
+        "past": { "W": "struck", "T": "strʌk" }
       },
       "ru": {
         "inf": { "W": "ударять" },
@@ -2123,8 +2043,7 @@
     "vforms": {
       "en": {
         "present": { "W": "sweep", "T": "swiːp" },
-        "past": { "W": "swept", "T": "swept" },
-        "participle": { "W": "swept", "T": "swept" }
+        "past": { "W": "swept", "T": "swept" }
       },
       "ru": {
         "inf": { "W": "подметать" },
@@ -2163,8 +2082,7 @@
     "vforms": {
       "en": {
         "present": { "W": "swing", "T": "swɪŋ" },
-        "past": { "W": "swung", "T": "swʌŋ" },
-        "participle": { "W": "swung", "T": "swʌŋ" }
+        "past": { "W": "swung", "T": "swʌŋ" }
       },
       "ru": {
         "inf": { "W": "качать" },
@@ -2192,10 +2110,10 @@
         "past": { "W": "брал" }
       },
       "he": {
-        "inf": { "W": "לָקַח", "T": "ла́ках" },
-        "present": { "W": "לוקֵחַ", "T": "ло́кех" },
-        "past": { "W": "לָקַחְתִּי", "T": "ла́хти" },
-        "future": { "W": "אֶקַּח", "T": "э́ках" }
+        "inf": { "W": "לָקַחַת", "T": "лака́хат" },
+        "present": { "W": "לוֹקֵחַ", "T": "локе́ах" },
+        "past": { "W": "לָקַחְתִּי", "T": "лака́хти" },
+        "future": { "W": "אֶקַּח", "T": "эка́х" }
       }
     }
   },
@@ -2203,8 +2121,7 @@
     "vforms": {
       "en": {
         "present": { "W": "teach", "T": "tiːʧ" },
-        "past": { "W": "taught", "T": "tɔːt" },
-        "participle": { "W": "taught", "T": "tɔːt" }
+        "past": { "W": "taught", "T": "tɔːt" }
       },
       "ru": {
         "inf": { "W": "учить" },
@@ -2212,10 +2129,10 @@
         "past": { "W": "учил" }
       },
       "he": {
-        "inf": { "W": "לַלְמוֹד", "T": "лальмод" },
-        "present": { "W": "מוֹרֶה", "T": "мо́ре" },
-        "past": { "W": "לִמַּדְתִּי", "T": "лимáдти" },
-        "future": { "W": "אַלְמַד", "T": "альмáд" }
+        "inf": { "W": "לִלְמוֹד", "T": "лильмо́д" },
+        "present": { "W": "לוֹמֵד", "T": "ломе́д" },
+        "past": { "W": "לָמַדְתִּי", "T": "лимáдети" },
+        "future": { "W": "אֶלְמַד", "T": "эльмáд" }
       }
     }
   },
@@ -2232,10 +2149,10 @@
         "past": { "W": "рвал" }
       },
       "he": {
-        "inf": { "W": "לִקְרוֹעַ", "T": "ликроа́" },
+        "inf": { "W": "לִקְרוֹעַ", "T": "ликро́а" },
         "present": { "W": "קוֹרֵעַ", "T": "коре́а" },
         "past": { "W": "קָרַעְתִּי", "T": "ка́рати" },
-        "future": { "W": "אִקְרוֹעַ", "T": "икро́а" }
+        "future": { "W": "אֶקְרַע", "T": "экра́" }
       }
     }
   },
@@ -2243,8 +2160,7 @@
     "vforms": {
       "en": {
         "present": { "W": "tell", "T": "tɛl" },
-        "past": { "W": "told", "T": "toʊld" },
-        "participle": { "W": "told", "T": "toʊld" }
+        "past": { "W": "told", "T": "toʊld" }
       },
       "ru": {
         "inf": { "W": "рассказывать" },
@@ -2263,8 +2179,7 @@
     "vforms": {
       "en": {
         "present": { "W": "think", "T": "θɪŋk" },
-        "past": { "W": "thought", "T": "θɔːt" },
-        "participle": { "W": "thought", "T": "θɔːt" }
+        "past": { "W": "thought", "T": "θɔːt" }
       },
       "ru": {
         "inf": { "W": "думать" },
@@ -2288,13 +2203,13 @@
       },
       "ru": {
         "inf": { "W": "бросать" },
-        "present": { "W": "брошу" },
+        "present": { "W": "бросаю" },
         "past": { "W": "бросал" }
       },
       "he": {
-        "inf": { "W": "לַהֲטִיל", "T": "лахатиль" },
+        "inf": { "W": "לְהַטִּיל", "T": "леhатиль" },
         "present": { "W": "מַטִּיל", "T": "матиль" },
-        "past": { "W": "הַטַּלְתִּי", "T": "хатальти" },
+        "past": { "W": "הִטַּלְתִּי", "T": "hитальти" },
         "future": { "W": "אַטִּיל", "T": "атиль" }
       }
     }
@@ -2303,8 +2218,7 @@
     "vforms": {
       "en": {
         "present": { "W": "understand", "T": "ˌʌndərˈstænd" },
-        "past": { "W": "understood", "T": "ˌʌndərˈstʊd" },
-        "participle": { "W": "understood", "T": "ˌʌndərˈstʊd" }
+        "past": { "W": "understood", "T": "ˌʌndərˈstʊd" }
       },
       "ru": {
         "inf": { "W": "понимать" },
@@ -2312,9 +2226,9 @@
         "past": { "W": "понимал" }
       },
       "he": {
-        "inf": { "W": "לְהָבִין", "T": "леавин" },
-        "present": { "W": "מֵבִין", "T": "ме́вин" },
-        "past": { "W": "הָבַנְתִּי", "T": "хаванти" },
+        "inf": { "W": "לְהָבִין", "T": "леhавин" },
+        "present": { "W": "מֵבִין", "T": "мевин" },
+        "past": { "W": "הֵבַנְתִּי", "T": "hеванти" },
         "future": { "W": "אֲבִין", "T": "авин" }
       }
     }
@@ -2332,10 +2246,10 @@
         "past": { "W": "просыпался" }
       },
       "he": {
-        "inf": { "W": "לִהְיוֹת עֵר", "T": "лиёт э́р" },
-        "present": { "W": "עֵר", "T": "эр" },
-        "past": { "W": "הֵעֵרְתִּי", "T": "хе́эрти" },
-        "future": { "W": "אֶהְיֶה עֵר", "T": "эхье э́р" }
+        "inf": { "W": "לְהָקִיץ", "T": "леhакиц" },
+        "present": { "W": "מֵקִיץ", "T": "мекиц" },
+        "past": { "W": "הֵקַצְתִּי", "T": "hекацти" },
+        "future": { "W": "אָקִיץ", "T": "акиц" }
       }
     }
   },
@@ -2347,12 +2261,12 @@
         "participle": { "W": "worn", "T": "wɔːrn" }
       },
       "ru": {
-        "inf": { "W": "носить" },
-        "present": { "W": "ношу" },
-        "past": { "W": "носил" }
+        "inf": { "W": "носить одежду" },
+        "present": { "W": "ношу одежду" },
+        "past": { "W": "носил одежду" }
       },
       "he": {
-        "inf": { "W": "לִלְבֹּשׁ", "T": "льбош" },
+        "inf": { "W": "לִלְבֹּשׁ", "T": "лильбо́ш" },
         "present": { "W": "לוֹבֵשׁ", "T": "ло́веш" },
         "past": { "W": "לָבַשְׁתִּי", "T": "лавáшти" },
         "future": { "W": "אֵלְבַּש", "T": "эльбáш" }
@@ -2363,8 +2277,7 @@
     "vforms": {
       "en": {
         "present": { "W": "weep", "T": "wiːp" },
-        "past": { "W": "wept", "T": "wɛpt" },
-        "participle": { "W": "wept", "T": "wɛpt" }
+        "past": { "W": "wept", "T": "wɛpt" }
       },
       "ru": {
         "inf": { "W": "плакать" },
@@ -2383,8 +2296,7 @@
     "vforms": {
       "en": {
         "present": { "W": "win", "T": "wɪn" },
-        "past": { "W": "won", "T": "wʌn" },
-        "participle": { "W": "won", "T": "wʌn" }
+        "past": { "W": "won", "T": "wʌn" }
       },
       "ru": {
         "inf": { "W": "выигрывать" },
@@ -2392,10 +2304,10 @@
         "past": { "W": "выигрывал" }
       },
       "he": {
-        "inf": { "W": "לִנְצֹחַ", "T": "линцоах" },
-        "present": { "W": "מוֹצֵחַ", "T": "моце́ах" },
+        "inf": { "W": "לְנַצֵּחַ", "T": "ленаце́ах" },
+        "present": { "W": "מְנַצֵּחַ", "T": "менаце́ах" },
         "past": { "W": "נִצַּחְתִּי", "T": "ница́хти" },
-        "future": { "W": "אֶנְצֹחַ", "T": "энцо́ах" }
+        "future": { "W": "אֲנַצֵּחַ", "T": "анаце́ах" }
       }
     }
   },
@@ -2403,8 +2315,7 @@
     "vforms": {
       "en": {
         "present": { "W": "wind", "T": "wɪnd" },
-        "past": { "W": "wound", "T": "wuːnd" },
-        "participle": { "W": "wound", "T": "wuːnd" }
+        "past": { "W": "wound", "T": "wuːnd" }
       },
       "ru": {
         "inf": { "W": "крутить" },
@@ -2432,10 +2343,10 @@
         "past": { "W": "писал" }
       },
       "he": {
-        "inf": { "W": "לִכְתֹּב", "T": "ликтов" },
-        "present": { "W": "כּוֹתֵב", "T": "котев" },
-        "past": { "W": "כָּתַבְתִּי", "T": "катавти" },
-        "future": { "W": "אֶכְתֹּב", "T": "эхтов" }
+        "inf": { "W": "לִכְתֹּב", "T": "лихто́в" },
+        "present": { "W": "כּוֹתֵב", "T": "коте́в" },
+        "past": { "W": "כָּתַבְתִּי", "T": "ката́вти" },
+        "future": { "W": "אֶכְתֹּב", "T": "эхто́в" }
       }
     }
   }
