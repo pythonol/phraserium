@@ -43,6 +43,10 @@
     "name": { "ru": "дом" },
     "style": { "img": "vocabulary/icons/house.png" }
   },
+  "irregular": {
+    "name": { "ru": "irregular", "he": "irregular" },
+    "style": { "icon": "hourglass_disabled" }
+  },
   "landscape": {
     "name": { "ru": "ландшафт", "he": "נוֹף" },
     "style": { "img": "vocabulary/icons/landscape.png" }
