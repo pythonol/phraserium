@@ -1734,6 +1734,7 @@
           }
         },
         "seed": {
+          "style": { "img": "images/nuts/seed.webp" },
           "gender": {
             "ru": "N",
             "he": "M"
@@ -1753,7 +1754,56 @@
             }
           }
         },
+        "poppy": {
+          "style": { "img": "images/nuts/poppy.webp" },
+          "gender": {
+            "ru": "M",
+            "he": "M"
+          },
+          "forms": {
+            "ru": { "W": "мак" },
+            "en": { "W": "poppy", "T": "ˈpɒp.i" },
+            "he": { "W": "פֶּרֶג", "T": "пе́рег" }
+          }
+        },
+        "sesame": {
+          "style": { "img": "images/nuts/sesame.webp" },
+          "gender": {
+            "ru": "M",
+            "he": "M"
+          },
+          "forms": {
+            "ru": { "W": "кунжут" },
+            "en": { "W": "sesame", "T": "ˈsɛs.ə.mi" },
+            "he": { "W": "שׂוּמְשׂוּם", "T": "су́мшум" }
+          }
+        },
+        "pumpkin_seeds": {
+          "style": { "img": "images/nuts/pumpkin_seeds.webp" },
+          "gender": {
+            "ru": "N",
+            "he": "M"
+          },
+          "forms": {
+            "ru": { "W": "тыквенные семечки" },
+            "en": { "W": "pumpkin seeds", "T": "ˈpʌmp.kɪn siːdz" },
+            "he": { "W": "גַּרְעִינֵי דְּלַעַת", "T": "гаръинэ́й дла́ат" }
+          }
+        },
+        "sunflower_seeds": {
+          "style": { "img": "images/nuts/sunflower_seeds.webp" },
+          "gender": {
+            "ru": "N",
+            "he": "M"
+          },
+          "forms": {
+            "ru": { "W": "семечки подсолнечника" },
+            "en": { "W": "sunflower seeds", "T": "ˈsʌn.flaʊ.ɚ siːdz" },
+            "he": { "W": "גַּרְעִינֵי חַמָּנִיָּה", "T": "гаръинэ́й хамани́я" }
+          }
+        },
         "walnut": {
+          "style": { "img": "images/nuts/walnut.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -1765,6 +1815,7 @@
           }
         },
         "almond": {
+          "style": { "img": "images/nuts/almond.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -1776,6 +1827,7 @@
           }
         },
         "hazelnut": {
+          "style": { "img": "images/nuts/hazelnut.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -1787,6 +1839,7 @@
           }
         },
         "cashew": {
+          "style": { "img": "images/nuts/cashew.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -1798,6 +1851,7 @@
           }
         },
         "pistachio": {
+          "style": { "img": "images/nuts/pistachio.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -1809,6 +1863,7 @@
           }
         },
         "peanut": {
+          "style": { "img": "images/nuts/peanut.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -1820,6 +1875,7 @@
           }
         },
         "pine_nuts": {
+          "style": { "img": "images/nuts/pine_nuts.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -1831,6 +1887,7 @@
           }
         },
         "pecan": {
+          "style": { "img": "images/nuts/pecan.webp" },
           "gender": {
             "ru": "M",
             "he": "M"
