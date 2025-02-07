@@ -2420,7 +2420,7 @@
   },
 
   "tab4": {
-    "How much": {
+    "how_much": {
       "forms": {
         "ru": { "W": "Сколько это стоит?" },
         "en": { "W": "How much it is?" },

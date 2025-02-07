@@ -4,7 +4,7 @@
     "style": { "header": true },
     "forms": {
       "ru": { "W": "Неправильные глаголы (en)" },
-      "en": { "W": "Irregular verbs" }
+      "en": { "W": "Irregular verbs", "T": "ɪˈreɡ.jə.lɚ vɝːbz" }
     }
   },
   "to arise": {
