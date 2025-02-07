@@ -323,6 +323,17 @@
       },
       "nested": {
         "@:water": { "style": { } },
+        "alcohol": {
+          "gender": {
+            "ru": "M",
+            "he": "M"
+          },
+          "forms": {
+            "ru": { "W": "спирт" },
+            "en": { "W": "alcohol", "T": "ˈæl.kə.hɒl" },
+            "he": { "W": "כּוֹהַל", "T": "ко́халь" }
+          }
+        },
         "wine": {
           "gender": {
             "ru": "N",
