@@ -79,6 +79,10 @@
     "name": { "ru": "город", "he": "עִיר" },
     "style": { "icon": "location_city" }
   },
+  "weapon": {
+    "name": { "ru": "оружие", "he": "נֶשֶׁק" },
+    "style": { "img": "vocabulary/icons/gun.png" }
+  },
   "weather": {
     "name": { "ru": "погода", "he": "מֶזֶג אֲוִיר" },
     "style": { "img": "vocabulary/icons/weather.png" }
