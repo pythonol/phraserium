@@ -82,6 +82,17 @@
         }
       },
       "nested": {
+        "self-service": {
+          "gender": {
+            "ru": "N",
+            "he": "M"
+          },
+          "forms": {
+            "ru": { "W": "самообслуживание" },
+            "en": { "W": "self-service", "T": "self sɝː.vɪs" },
+            "he": { "W": "שֵׁירוּת עַצְמִי", "T": "шеру́т ацми́" }
+          }
+        },
         "market": {
           "gender": {
             "ru": "M",
