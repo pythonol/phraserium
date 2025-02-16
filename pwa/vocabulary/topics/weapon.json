@@ -937,13 +937,7 @@
     "@:cold,hot": { },
     "@:quiet,loud": { },
     "@:accurate": { },
-    "almost": {
-      "forms": {
-        "ru": { "W": "почти" },
-        "en": { "W": "almost", "T": "ɑːl.moʊst" },
-        "he": { "W": "כִּמְעַט", "T": "кимъа́т" }
-      }
-    },
+    "@:almost": { },
     "charged": {
       "forms": {
         "ru": {
