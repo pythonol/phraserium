@@ -1,5 +1,25 @@
 {
   "tab1": {
+    "pronoun": {
+      "gender": {
+        "ru": "N",
+        "he": "M"
+      },
+      "forms": {
+        "ru": {
+          "S": { "W": "местоимение" },
+          "P": { "W": "местоимения" }
+        },
+        "en": {
+          "S": { "W": "pronoun", "T": "ˈproʊ.naʊn" },
+          "P": { "W": "pronouns", "T": "ˈproʊ.naʊnz" }
+        },
+        "he": {
+          "S": { "W": "כִּינוּי", "T": "кинуй" },
+          "P": { "W": "כִּינוּיִים", "T": "кинуйим" }
+        }
+      }
+    },
     "personal_pronouns": {
       "order": 200,
       "orderKeep": true,

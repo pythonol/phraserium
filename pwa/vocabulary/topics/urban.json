@@ -1172,7 +1172,7 @@
       }
     },
 
-    "state": {
+    "urban-state": {
       "order": 280,
       "style": {
         "icon": "flag"
