@@ -10,10 +10,10 @@
     "weather": "2025-01-23T23:24:51",
     "urban": "2025-02-17T21:22:51",
     "art": "2025-02-16T11:21:15",
-    "irregular": "2025-02-17T23:00:31",
+    "irregular": "2025-02-18T07:59:15",
     "misc": "2025-02-17T06:30:25",
     "weapon": "2025-02-16T21:42:06"
   },
-  "version": "0.7.75",
-  "cache_bypass": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  "version": "0.7.76",
+  "cache_bypass": ""
 }
