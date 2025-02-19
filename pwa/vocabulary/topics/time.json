@@ -695,84 +695,84 @@
         }
       },
       "nested": {
-        "january": {
+        "January": {
           "forms": {
             "ru": { "W": "январь" },
             "en": { "W": "January", "T": "ˈdʒæn.ju.er.i" },
             "he": { "W": "יָנוּאָר", "T": "януа́р" }
           }
         },
-        "february": {
+        "February": {
           "forms": {
             "ru": { "W": "февраль" },
             "en": { "W": "February", "T": "ˈfeb.ruː.er.i" },
             "he": { "W": "פֶבְרוּאָר", "T": "февруа́р" }
           }
         },
-        "march": {
+        "March": {
           "forms": {
             "ru": { "W": "март" },
             "en": { "W": "March", "T": "mɑːrtʃ" },
             "he": { "W": "מַרְץ", "T": "марц" }
           }
         },
-        "april": {
+        "April": {
           "forms": {
             "ru": { "W": "апрель" },
             "en": { "W": "April", "T": "ˈeɪ.prəl" },
             "he": { "W": "אַפּרִיל", "T": "апри́ль" }
           }
         },
-        "may": {
+        "May": {
           "forms": {
             "ru": { "W": "май" },
             "en": { "W": "May", "T": "meɪ" },
             "he": { "W": "מַאי", "T": "ма́й" }
           }
         },
-        "june": {
+        "June": {
           "forms": {
             "ru": { "W": "июнь" },
             "en": { "W": "June", "T": "dʒuːn" },
             "he": { "W": "יוּנִי", "T": "ю́ни" }
           }
         },
-        "july": {
+        "July": {
           "forms": {
             "ru": { "W": "июль" },
             "en": { "W": "July", "T": "dʒuːˈlaɪ" },
             "he": { "W": "יוּלִי", "T": "ю́ли" }
           }
         },
-        "august": {
+        "August": {
           "forms": {
             "ru": { "W": "август" },
             "en": { "W": "August", "T": "ˈɔː.ɡəst" },
             "he": { "W": "אוֹגוּסְט", "T": "о́густ" }
           }
         },
-        "september": {
+        "September": {
           "forms": {
             "ru": { "W": "сентябрь" },
             "en": { "W": "September", "T": "sɛpˈtɛm.bər" },
             "he": { "W": "סֶפּטֶמבֶּר", "T": "септе́мбер" }
           }
         },
-        "october": {
+        "October": {
           "forms": {
             "ru": { "W": "октябрь" },
             "en": { "W": "October", "T": "ɒkˈtoʊ.bər" },
             "he": { "W": "אוֹקְטוֹבֶּר", "T": "окто́бер" }
           }
         },
-        "november": {
+        "November": {
           "forms": {
             "ru": { "W": "ноябрь" },
             "en": { "W": "November", "T": "noʊˈvɛm.bər" },
             "he": { "W": "נוֹבֶמבֶּר", "T": "нове́мбер" }
           }
         },
-        "december": {
+        "December": {
           "forms": {
             "ru": { "W": "декабрь" },
             "en": { "W": "December", "T": "dɪˈsɛm.bər" },

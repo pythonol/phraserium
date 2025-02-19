@@ -1,5 +1,16 @@
 {
   "tab1": {
+    "harvest": {
+      "gender": {
+        "ru": "M",
+        "he": "M"
+      },
+      "forms": {
+        "ru": { "W": "урожай" },
+        "en": { "W": "harvest", "T": "ˈhɑːrvɪst" },
+        "he": { "W": "יְבוּל", "T": "йевуль" }
+      }
+    },
     "fruit": {
       "order": 200,
       "gender": {
