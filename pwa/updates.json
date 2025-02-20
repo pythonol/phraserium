@@ -11,9 +11,9 @@
     "weather": "2025-01-23T23:24:51",
     "urban": "2025-02-17T21:22:51",
     "art": "2025-02-16T11:21:15",
-    "irregular": "2025-02-20T11:48:02",
+    "irregular": "2025-02-20T18:59:04",
     "weapon": "2025-02-16T21:42:06"
   },
-  "version": "0.7.82",
-  "cache_bypass": "ABCD"
+  "version": "0.7.83",
+  "cache_bypass": "ABCDE"
 }
