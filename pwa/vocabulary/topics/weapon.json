@@ -934,7 +934,7 @@
 
   "tab2": {
     "@:empty,full": { },
-    "@:cold,hot": { },
+    "@:prop-cold,prop-hot": { },
     "@:quiet,loud": { },
     "@:accurate": { },
     "@:almost": { },
