@@ -1492,6 +1492,7 @@
           "opposite": "prop-open"
         },
         "old man": {
+          "langs": [ "ru,he", "en,he" ],
           "forms": {
             "ru": {
               "S": {
