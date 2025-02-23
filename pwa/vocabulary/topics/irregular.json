@@ -7,7 +7,8 @@
     },
     "nested": {
       "can": {
-        "vforms": {
+        "type": "V",
+        "forms": {
           "en": {
             "present": { "W": "can", "T": "kæn" },
             "past": { "W": "could", "T": "kʊd" }
@@ -153,7 +154,8 @@
     }
   },
   "to be": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "inf": { "W": "to be", "T": "tuː biː" },
         "present": {
@@ -231,7 +233,8 @@
     }
   },
   "to arise": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "arise", "T": "əˈraɪz" },
         "past": { "W": "arose", "T": "əˈroʊz" },
@@ -325,7 +328,8 @@
     }
   },
   "to awake": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "awake", "T": "əˈweɪk" },
         "past": { "W": "awoke", "T": "əˈwoʊk" },
@@ -419,7 +423,8 @@
     }
   },
   "to bear": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "bear", "T": "ber" },
         "past": { "W": "bore", "T": "bɔr" },
@@ -513,7 +518,8 @@
     }
   },
   "to beat": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "beat", "T": "bit" },
         "past": { "W": "beat", "T": "bit" },
@@ -607,7 +613,8 @@
     }
   },
   "to become": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "become", "T": "bɪˈkʌm" },
         "past": { "W": "became", "T": "bɪˈkeɪm" },
@@ -702,7 +709,8 @@
     }
   },
   "to begin": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "begin", "T": "bɪˈɡɪn" },
         "past": { "W": "began", "T": "bɪˈɡæn" },
@@ -796,7 +804,8 @@
     }
   },
   "to bend": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "bend", "T": "bend" },
         "past": { "W": "bent", "T": "bent" }
@@ -889,7 +898,8 @@
     }
   },
   "to bet": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "bet", "T": "bet" },
         "past": { "W": "bet", "T": "bet" }
@@ -982,7 +992,8 @@
     }
   },
   "to bind": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "bind", "T": "baɪnd" },
         "past": { "W": "bound", "T": "baʊnd" }
@@ -1075,7 +1086,8 @@
     }
   },
   "to bite": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "bite", "T": "baɪt" },
         "past": { "W": "bit", "T": "bɪt" },
@@ -1169,7 +1181,8 @@
     }
   },
   "to bleed": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "bleed", "T": "blid" },
         "past": { "W": "bled", "T": "bled" }
@@ -1251,7 +1264,8 @@
     }
   },
   "to blow": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "blow", "T": "bloʊ" },
         "past": { "W": "blew", "T": "blu" },
@@ -1345,7 +1359,8 @@
     }
   },
   "to break": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "break", "T": "breɪk" },
         "past": { "W": "broke", "T": "broʊk" },
@@ -1439,7 +1454,8 @@
     }
   },
   "to breed": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "breed", "T": "brid" },
         "past": { "W": "bred", "T": "bred" }
@@ -1475,7 +1491,8 @@
     }
   },
   "to bring": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "bring", "T": "brɪŋ" },
         "past": { "W": "brought", "T": "brɔt" }
@@ -1568,7 +1585,8 @@
     }
   },
   "to build": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "build", "T": "bɪld" },
         "past": { "W": "built", "T": "bɪlt" }
@@ -1661,7 +1679,8 @@
     }
   },
   "to burst": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "burst", "T": "bɜrst" },
         "past": { "W": "burst", "T": "bɜrst" }
@@ -1754,7 +1773,8 @@
     }
   },
   "to buy": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "buy", "T": "baɪ" },
         "past": { "W": "bought", "T": "bɔt" }
@@ -1847,7 +1867,8 @@
     }
   },
   "to catch": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "catch", "T": "kætʃ" },
         "past": { "W": "caught", "T": "kɔt" }
@@ -1940,7 +1961,8 @@
     }
   },
   "to choose": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "choose", "T": "tʃuz" },
         "past": { "W": "chose", "T": "tʃoʊz" },
@@ -2034,7 +2056,8 @@
     }
   },
   "to cling": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "cling", "T": "klɪŋ" },
         "past": { "W": "clung", "T": "klʌŋ" }
@@ -2127,7 +2150,8 @@
     }
   },
   "to come": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "come", "T": "kʌm" },
         "past": { "W": "came", "T": "keɪm" },
@@ -2221,7 +2245,8 @@
     }
   },
   "to cost": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "cost", "T": "kɔst" },
         "past": { "W": "cost", "T": "kɔst" }
@@ -2314,7 +2339,8 @@
     }
   },
   "to creep": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "creep", "T": "krip" },
         "past": { "W": "crept", "T": "krept" }
@@ -2407,7 +2433,8 @@
     }
   },
   "to cut": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "cut", "T": "kʌt" },
         "past": { "W": "cut", "T": "kʌt" }
@@ -2500,7 +2527,8 @@
     }
   },
   "to do": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "do", "T": "du" },
         "past": { "W": "did", "T": "dɪd" },
@@ -2594,7 +2622,8 @@
     }
   },
   "to draw": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "draw", "T": "drɔ" },
         "past": { "W": "drew", "T": "dru" },
@@ -2688,7 +2717,8 @@
     }
   },
   "to drink": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "drink", "T": "drɪŋk" },
         "past": { "W": "drank", "T": "dræŋk" },
@@ -2782,7 +2812,8 @@
     }
   },
   "to drive": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "drive", "T": "draɪv" },
         "past": { "W": "drove", "T": "droʊv" },
@@ -2876,7 +2907,8 @@
     }
   },
   "to eat": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "eat", "T": "it" },
         "past": { "W": "ate", "T": "eɪt" },
@@ -2970,7 +3002,8 @@
     }
   },
   "to fall": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "fall", "T": "fɔl" },
         "past": { "W": "fell", "T": "fel" },
@@ -3064,7 +3097,8 @@
     }
   },
   "to feed": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "feed", "T": "fid" },
         "past": { "W": "fed", "T": "fed" }
@@ -3157,7 +3191,8 @@
     }
   },
   "to feel": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "feel", "T": "fil" },
         "past": { "W": "felt", "T": "felt" }
@@ -3250,7 +3285,8 @@
     }
   },
   "to fight": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "fight", "T": "faɪt" },
         "past": { "W": "fought", "T": "fɔt" }
@@ -3343,7 +3379,8 @@
     }
   },
   "to find": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "find", "T": "faɪnd" },
         "past": { "W": "found", "T": "faʊnd" }
@@ -3436,7 +3473,8 @@
     }
   },
   "to fly": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "fly", "T": "flaɪ" },
         "past": { "W": "flew", "T": "flu" },
@@ -3530,7 +3568,8 @@
     }
   },
   "to forbid": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "forbid", "T": "fərˈbɪd" },
         "past": { "W": "forbade", "T": "fərˈbeɪd" },
@@ -3624,7 +3663,8 @@
     }
   },
   "to forget": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "forget", "T": "fərˈɡet" },
         "past": { "W": "forgot", "T": "fərˈɡɑt" },
@@ -3718,7 +3758,8 @@
     }
   },
   "to forgive": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "forgive", "T": "fərˈɡɪv" },
         "past": { "W": "forgave", "T": "fərˈɡeɪv" },
@@ -3812,7 +3853,8 @@
     }
   },
   "to freeze": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "freeze", "T": "friz" },
         "past": { "W": "froze", "T": "froʊz" },
@@ -3906,7 +3948,8 @@
     }
   },
   "to get": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "get", "T": "ɡet" },
         "past": { "W": "got", "T": "ɡɑt" }
@@ -3999,7 +4042,8 @@
     }
   },
   "to give": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "give", "T": "ɡɪv" },
         "past": { "W": "gave", "T": "ɡeɪv" },
@@ -4093,7 +4137,8 @@
     }
   },
   "to go": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "go", "T": "ɡoʊ" },
         "past": { "W": "went", "T": "went" },
@@ -4187,7 +4232,8 @@
     }
   },
   "to grind": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "grind", "T": "ɡraɪnd" },
         "past": { "W": "ground", "T": "ɡraʊnd" }
@@ -4280,7 +4326,8 @@
     }
   },
   "to grow": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "grow", "T": "ɡroʊ" },
         "past": { "W": "grew", "T": "ɡru" },
@@ -4374,7 +4421,8 @@
     }
   },
   "to hang": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "hang", "T": "hæŋ" },
         "past": { "W": "hung", "T": "hʌŋ" }
@@ -4467,7 +4515,8 @@
     }
   },
   "to have": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "have", "T": "hæv" },
         "past": { "W": "had", "T": "hæd" }
@@ -4497,7 +4546,8 @@
     }
   },
   "to hear": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "hear", "T": "hɪr" },
         "past": { "W": "heard", "T": "hɜrd" }
@@ -4590,7 +4640,8 @@
     }
   },
   "to hide": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "hide", "T": "haɪd" },
         "past": { "W": "hid", "T": "hɪd" },
@@ -4684,7 +4735,8 @@
     }
   },
   "to hit": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "hit", "T": "hɪt" },
         "past": { "W": "hit", "T": "hɪt" }
@@ -4777,7 +4829,8 @@
     }
   },
   "to hold": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "hold", "T": "hoʊld" },
         "past": { "W": "held", "T": "held" }
@@ -4870,7 +4923,8 @@
     }
   },
   "to hurt": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "hurt", "T": "hɜrt" },
         "past": { "W": "hurt", "T": "hɜrt" }
@@ -4952,7 +5006,8 @@
     }
   },
   "to keep": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "keep", "T": "kip" },
         "past": { "W": "kept", "T": "kept" }
@@ -5045,7 +5100,8 @@
     }
   },
   "to kneel": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "kneel", "T": "niːl" },
         "past": { "W": "knelt", "T": "nelt" }
@@ -5138,7 +5194,8 @@
     }
   },
   "to know": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "know", "T": "noʊ" },
         "past": { "W": "knew", "T": "nuː" },
@@ -5232,7 +5289,8 @@
     }
   },
   "to lay": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "lay", "T": "leɪ" },
         "past": { "W": "laid", "T": "leɪd" }
@@ -5325,7 +5383,8 @@
     }
   },
   "to lead": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "lead", "T": "liːd" },
         "past": { "W": "led", "T": "led" }
@@ -5418,7 +5477,8 @@
     }
   },
   "to leave": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "leave", "T": "liːv" },
         "past": { "W": "left", "T": "left" }
@@ -5511,7 +5571,8 @@
     }
   },
   "to lend": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "lend", "T": "lend" },
         "past": { "W": "lent", "T": "lent" }
@@ -5604,7 +5665,8 @@
     }
   },
   "to lie": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "lie", "T": "laɪ" },
         "past": { "W": "lay", "T": "leɪ" },
@@ -5698,7 +5760,8 @@
     }
   },
   "to lose": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "lose", "T": "luːz" },
         "past": { "W": "lost", "T": "lɔst" }
@@ -5791,7 +5854,8 @@
     }
   },
   "to make": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "make", "T": "meɪk" },
         "past": { "W": "made", "T": "meɪd" }
@@ -5884,7 +5948,8 @@
     }
   },
   "to mean": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "mean", "T": "miːn" },
         "past": { "W": "meant", "T": "ment" }
@@ -5977,7 +6042,8 @@
     }
   },
   "to meet": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "meet", "T": "miːt" },
         "past": { "W": "met", "T": "met" }
@@ -6070,7 +6136,8 @@
     }
   },
   "to overtake": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "overtake", "T": "ˌoʊvərˈteɪk" },
         "past": { "W": "overtook", "T": "ˌoʊvərˈtʊk" },
@@ -6164,7 +6231,8 @@
     }
   },
   "to pay": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "pay", "T": "peɪ" },
         "past": { "W": "paid", "T": "peɪd" }
@@ -6257,7 +6325,8 @@
     }
   },
   "to put": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "put", "T": "pʊt" },
         "past": { "W": "put", "T": "pʊt" }
@@ -6350,7 +6419,8 @@
     }
   },
   "to read": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "read", "T": "riːd" },
         "past": { "W": "read", "T": "red" }
@@ -6443,7 +6513,8 @@
     }
   },
   "to ride": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "ride", "T": "raɪd" },
         "past": { "W": "rode", "T": "roʊd" },
@@ -6537,7 +6608,8 @@
     }
   },
   "to ring": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "ring", "T": "rɪŋ" },
         "past": { "W": "rang", "T": "ræŋ" },
@@ -6631,7 +6703,8 @@
     }
   },
   "to rise": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "rise", "T": "raɪz" },
         "past": { "W": "rose", "T": "roʊz" },
@@ -6725,7 +6798,8 @@
     }
   },
   "to run": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "run", "T": "rʌn" },
         "past": { "W": "ran", "T": "ræn" },
@@ -6819,7 +6893,8 @@
     }
   },
   "to saw": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "saw", "T": "sɔː" },
         "past": { "W": "sawed", "T": "sɔːd" },
@@ -6913,7 +6988,8 @@
     }
   },
   "to say": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "say", "T": "seɪ" },
         "past": { "W": "said", "T": "sed" }
@@ -7007,7 +7083,8 @@
     }
   },
   "to see": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "see", "T": "siː" },
         "past": { "W": "saw", "T": "sɔː" },
@@ -7101,7 +7178,8 @@
     }
   },
   "to sell": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "sell", "T": "sel" },
         "past": { "W": "sold", "T": "soʊld" }
@@ -7194,7 +7272,8 @@
     }
   },
   "to send": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "send", "T": "send" },
         "past": { "W": "sent", "T": "sent" }
@@ -7287,7 +7366,8 @@
     }
   },
   "to set": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "set", "T": "set" },
         "past": { "W": "set", "T": "set" }
@@ -7380,7 +7460,8 @@
     }
   },
   "to shake": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "shake", "T": "ʃeɪk" },
         "past": { "W": "shook", "T": "ʃʊk" },
@@ -7474,7 +7555,8 @@
     }
   },
   "to shed": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "shed", "T": "ʃed" },
         "past": { "W": "shed", "T": "ʃed" }
@@ -7567,7 +7649,8 @@
     }
   },
   "to shine": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "shine", "T": "ʃaɪn" },
         "past": { "W": "shone", "T": "ʃoʊn" }
@@ -7660,7 +7743,8 @@
     }
   },
   "to shoot": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "shoot", "T": "ʃuːt" },
         "past": { "W": "shot", "T": "ʃɒt" }
@@ -7753,7 +7837,8 @@
     }
   },
   "to show": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "show", "T": "ʃoʊ" },
         "past": { "W": "showed", "T": "ʃoʊd" },
@@ -7847,7 +7932,8 @@
     }
   },
   "to shrink": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "shrink", "T": "ʃrɪŋk" },
         "past": { "W": "shrank", "T": "ʃræŋk" },
@@ -7941,7 +8027,8 @@
     }
   },
   "to shut": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "shut", "T": "ʃʌt" },
         "past": { "W": "shut", "T": "ʃʌt" }
@@ -8034,7 +8121,8 @@
     }
   },
   "to sing": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "sing", "T": "sɪŋ" },
         "past": { "W": "sang", "T": "sæŋ" },
@@ -8128,7 +8216,8 @@
     }
   },
   "to sink": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "sink", "T": "sɪŋk" },
         "past": { "W": "sank", "T": "sæŋk" },
@@ -8222,7 +8311,8 @@
     }
   },
   "to sit": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "sit", "T": "sɪt" },
         "past": { "W": "sat", "T": "sæt" }
@@ -8315,7 +8405,8 @@
     }
   },
   "to sleep": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "sleep", "T": "sliːp" },
         "past": { "W": "slept", "T": "slept" }
@@ -8408,7 +8499,8 @@
     }
   },
   "to slide": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "slide", "T": "slaɪd" },
         "past": { "W": "slid", "T": "slɪd" }
@@ -8501,7 +8593,8 @@
     }
   },
   "to smell": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "smell", "T": "smel" },
         "past": { "W": "smelt", "T": "smelt" }
@@ -8594,7 +8687,8 @@
     }
   },
   "to speak": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "speak", "T": "spiːk" },
         "past": { "W": "spoke", "T": "spoʊk" },
@@ -8688,7 +8782,8 @@
     }
   },
   "to spend": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "spend", "T": "spend" },
         "past": { "W": "spent", "T": "spent" }
@@ -8781,7 +8876,8 @@
     }
   },
   "to spin": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "spin", "T": "spɪn" },
         "past": { "W": "spun", "T": "spʌn" }
@@ -8874,7 +8970,8 @@
     }
   },
   "to spit": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "spit", "T": "spɪt" },
         "past": { "W": "spat", "T": "spæt" }
@@ -8967,7 +9064,8 @@
     }
   },
   "to spread": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "spread", "T": "spred" },
         "past": { "W": "spread", "T": "spred" }
@@ -9060,7 +9158,8 @@
     }
   },
   "to stand": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "stand", "T": "stænd" },
         "past": { "W": "stood", "T": "stʊd" }
@@ -9081,7 +9180,8 @@
     }
   },
   "to steal": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "steal", "T": "stiːl" },
         "past": { "W": "stole", "T": "stoʊl" },
@@ -9175,7 +9275,8 @@
     }
   },
   "to stick": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "stick", "T": "stɪk" },
         "past": { "W": "stuck", "T": "stʌk" }
@@ -9268,7 +9369,8 @@
     }
   },
   "to sting": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "sting", "T": "stɪŋ" },
         "past": { "W": "stung", "T": "stʌŋ" }
@@ -9361,7 +9463,8 @@
     }
   },
   "to stink": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "stink", "T": "stɪŋk" },
         "past": { "W": "stank", "T": "stæŋk" },
@@ -9455,7 +9558,8 @@
     }
   },
   "to strike": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "strike", "T": "straɪk" },
         "past": { "W": "struck", "T": "strʌk" }
@@ -9548,7 +9652,8 @@
     }
   },
   "to swear": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "swear", "T": "sweər" },
         "past": { "W": "swore", "T": "swɔr" },
@@ -9642,7 +9747,8 @@
     }
   },
   "to sweep": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "sweep", "T": "swiːp" },
         "past": { "W": "swept", "T": "swept" }
@@ -9735,7 +9841,8 @@
     }
   },
   "to swim": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "swim", "T": "swɪm" },
         "past": { "W": "swam", "T": "swæm" },
@@ -9829,7 +9936,8 @@
     }
   },
   "to swing": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "swing", "T": "swɪŋ" },
         "past": { "W": "swung", "T": "swʌŋ" }
@@ -9922,7 +10030,8 @@
     }
   },
   "to take": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "take", "T": "teɪk" },
         "past": { "W": "took", "T": "tʊk" },
@@ -10016,7 +10125,8 @@
     }
   },
   "to teach": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "teach", "T": "tiːʧ" },
         "past": { "W": "taught", "T": "tɔːt" }
@@ -10109,7 +10219,8 @@
     }
   },
   "to tear": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "tear", "T": "tɛər" },
         "past": { "W": "tore", "T": "tɔːr" },
@@ -10203,7 +10314,8 @@
     }
   },
   "to tell": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "tell", "T": "tɛl" },
         "past": { "W": "told", "T": "toʊld" }
@@ -10296,7 +10408,8 @@
     }
   },
   "to think": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "think", "T": "θɪŋk" },
         "past": { "W": "thought", "T": "θɔːt" }
@@ -10389,7 +10502,8 @@
     }
   },
   "to throw": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "throw", "T": "θroʊ" },
         "past": { "W": "threw", "T": "θruː" },
@@ -10483,7 +10597,8 @@
     }
   },
   "to understand": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "understand", "T": "ˌʌndərˈstænd" },
         "past": { "W": "understood", "T": "ˌʌndərˈstʊd" }
@@ -10576,7 +10691,8 @@
     }
   },
   "to wake": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "wake", "T": "weɪk" },
         "past": { "W": "woke", "T": "woʊk" },
@@ -10670,7 +10786,8 @@
     }
   },
   "to wear": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "wear", "T": "wɛər" },
         "past": { "W": "wore", "T": "wɔːr" },
@@ -10764,7 +10881,8 @@
     }
   },
   "to weep": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "weep", "T": "wiːp" },
         "past": { "W": "wept", "T": "wɛpt" }
@@ -10857,7 +10975,8 @@
     }
   },
   "to win": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "win", "T": "wɪn" },
         "past": { "W": "won", "T": "wʌn" }
@@ -10950,7 +11069,8 @@
     }
   },
   "to wind": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "wind", "T": "wɪnd" },
         "past": { "W": "wound", "T": "wuːnd" }
@@ -11043,7 +11163,8 @@
     }
   },
   "to write": {
-    "vforms": {
+    "type": "V",
+    "forms": {
       "en": {
         "present": { "W": "write", "T": "raɪt" },
         "past": { "W": "wrote", "T": "roʊt" },

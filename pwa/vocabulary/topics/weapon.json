@@ -986,7 +986,8 @@
 
   "tab3": {
     "hit the target": {
-      "vforms": {
+      "type": "V",
+      "forms": {
         "en": {
           "present": { "W": "hit the target" },
           "past": { "W": "hit the target" }
@@ -1007,7 +1008,8 @@
       }
     },
     "to fire": {
-      "vforms": {
+      "type": "V",
+      "forms": {
         "en": {
           "present": { "W": "fire", "T": "faɪər" },
           "past": { "W": "fired", "T": "faɪərd" }
@@ -1028,7 +1030,8 @@
       }
     },
     "to load": {
-      "vforms": {
+      "type": "V",
+      "forms": {
         "en": {
           "present": { "W": "load", "T": "loʊd" },
           "past": { "W": "loaded", "T": "loʊdɪd" }
@@ -1050,7 +1053,8 @@
       }
     },
     "to unload": {
-      "vforms": {
+      "type": "V",
+      "forms": {
         "en": {
           "present": { "W": "unload", "T": "ʌnˈloʊd" },
           "past": { "W": "unloaded", "T": "ʌnˈloʊdɪd" }
@@ -1072,7 +1076,8 @@
       }
     },
     "to reload": {
-      "vforms": {
+      "type": "V",
+      "forms": {
         "en": {
           "present": { "W": "reload", "T": "ˌriːˈloʊd" },
           "past": { "W": "reloaded", "T": "ˌriːˈloʊdɪd" }
@@ -1094,7 +1099,8 @@
       }
     },
     "to clear": {
-      "vforms": {
+      "type": "V",
+      "forms": {
         "en": {
           "present": { "W": "clear", "T": "klɪər" },
           "past": { "W": "cleared", "T": "klɪərd" }
@@ -1115,7 +1121,8 @@
       }
     },
     "to remove": {
-      "vforms": {
+      "type": "V",
+      "forms": {
         "en": {
           "present": { "W": "remove", "T": "rɪˈmuːv" },
           "past": { "W": "removed", "T": "rɪˈmuːvd" }
