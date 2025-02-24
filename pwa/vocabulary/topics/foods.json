@@ -319,7 +319,7 @@
     "drink": {
       "order": 220,
       "style": {
-        "img": "vocabulary/icons/bottles.png"
+        "img": "images/icons/bottles.png"
       },
       "gender": {
         "ru": "M",
@@ -424,7 +424,7 @@
     "milk": {
       "order": 230,
       "style": {
-        "img": "vocabulary/icons/milk.png"
+        "img": "images/icons/milk.png"
       },
       "gender": {
         "ru": "N",
@@ -542,7 +542,7 @@
     "bakery": {
       "order": 250,
       "style": {
-        "img": "vocabulary/icons/bread.png"
+        "img": "images/icons/bread.png"
       },
       "gender": {
         "ru": "F",
@@ -730,7 +730,7 @@
     "meat": {
       "order": 280,
       "style": {
-        "img": "vocabulary/icons/beef-steak.png"
+        "img": "images/icons/beef-steak.png"
       },
       "gender": {
         "ru": "N",
@@ -925,7 +925,7 @@
     "fish": {
       "order": 290,
       "style": {
-        "img": "vocabulary/icons/fish.png"
+        "img": "images/icons/fish.png"
       },
       "gender": {
         "ru": "F",
@@ -1075,7 +1075,7 @@
     "grocery": {
       "order": 400,
       "style": {
-        "img": "vocabulary/icons/sack.png"
+        "img": "images/icons/sack.png"
       },
       "gender": {
         "ru": "F",

@@ -493,7 +493,7 @@
         },
 
         "bus": {
-          "style": { "img": "vocabulary/icons/bus.png" },
+          "style": { "img": "images/icons/bus.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -514,7 +514,7 @@
           }
         },
         "tram": {
-          "style": { "img": "vocabulary/icons/tram.png" },
+          "style": { "img": "images/icons/tram.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -535,7 +535,7 @@
           }
         },
         "train": {
-          "style": { "img": "vocabulary/icons/train.png" },
+          "style": { "img": "images/icons/train.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -556,7 +556,7 @@
           }
         },
         "subway": {
-          "style": { "img": "vocabulary/icons/subway.png" },
+          "style": { "img": "images/icons/subway.png" },
           "gender": {
             "ru": "N",
             "he": "F"
@@ -568,7 +568,7 @@
           }
         },
         "trolleybus": {
-          "style": { "img": "vocabulary/icons/trolleybus.png" },
+          "style": { "img": "images/icons/trolleybus.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -589,7 +589,7 @@
           }
         },
         "funicular": {
-          "style": { "img": "vocabulary/icons/funicular.png" },
+          "style": { "img": "images/icons/funicular.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -610,7 +610,7 @@
           }
         },
         "taxi": {
-          "style": { "img": "vocabulary/icons/taxi.png" },
+          "style": { "img": "images/icons/taxi.png" },
           "gender": {
             "ru": "N",
             "he": "F"
@@ -622,7 +622,7 @@
           }
         },
         "car": {
-          "style": { "img": "vocabulary/icons/car.png" },
+          "style": { "img": "images/icons/car.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -643,7 +643,7 @@
           }
         },
         "truck": {
-          "style": { "img": "vocabulary/icons/truck.png" },
+          "style": { "img": "images/icons/truck.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -664,7 +664,7 @@
           }
         },
         "bicycle": {
-          "style": { "img": "vocabulary/icons/bicycle.png" },
+          "style": { "img": "images/icons/bicycle.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -685,7 +685,7 @@
           }
         },
         "motorcycle": {
-          "style": { "img": "vocabulary/icons/motocross.png" },
+          "style": { "img": "images/icons/motocross.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -706,7 +706,7 @@
           }
         },
         "scooter": {
-          "style": { "img": "vocabulary/icons/scooter.png" },
+          "style": { "img": "images/icons/scooter.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -727,7 +727,7 @@
           }
         },
         "airplane": {
-          "style": { "img": "vocabulary/icons/airplane.png" },
+          "style": { "img": "images/icons/airplane.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -748,7 +748,7 @@
           }
         },
         "helicopter": {
-          "style": { "img": "vocabulary/icons/helicopter.png" },
+          "style": { "img": "images/icons/helicopter.png" },
           "gender": {
             "ru": "M",
             "he": "M"
@@ -769,7 +769,7 @@
           }
         },
         "ship": {
-          "style": { "img": "vocabulary/icons/ship.png" },
+          "style": { "img": "images/icons/ship.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -790,7 +790,7 @@
           }
         },
         "tanker": {
-          "style": { "img": "vocabulary/icons/tanker.png" },
+          "style": { "img": "images/icons/tanker.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -811,7 +811,7 @@
           }
         },
         "ferry": {
-          "style": { "img": "vocabulary/icons/ferry.png" },
+          "style": { "img": "images/icons/ferry.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -832,7 +832,7 @@
           }
         },
         "motorboat": {
-          "style": { "img": "vocabulary/icons/motorboat.png" },
+          "style": { "img": "images/icons/motorboat.png" },
           "gender": {
             "ru": "M",
             "he": "F"
@@ -853,7 +853,7 @@
           }
         },
         "boat": {
-          "style": { "img": "vocabulary/icons/boat.png" },
+          "style": { "img": "images/icons/boat.png" },
           "gender": {
             "ru": "F",
             "he": "F"

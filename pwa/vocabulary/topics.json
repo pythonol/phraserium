@@ -1,7 +1,7 @@
 {
   "art": {
     "name": { "ru": "искусство", "he": "אומנות" },
-    "style": { "img": "vocabulary/icons/palette.png" }
+    "style": { "img": "images/icons/palette.png" }
   },
   "bank": {
     "name": { "ru": "банк" },
@@ -9,7 +9,7 @@
   },
   "cafe": {
     "name": { "ru": "кафе" },
-    "style": { "img": "vocabulary/icons/fast-food.png" }
+    "style": { "img": "images/icons/fast-food.png" }
   },
   "car": {
     "name": { "ru": "машина" },
@@ -21,7 +21,7 @@
   },
   "compare": {
     "name": { "ru": "сравнение" },
-    "style": { "img": "vocabulary/icons/scales.png" }
+    "style": { "img": "images/icons/scales.png" }
   },
   "dir": {
     "name": { "ru": "направл." },
@@ -29,19 +29,19 @@
   },
   "fruits": {
     "name": { "ru": "плоды", "he": "פֵּרוֹת" },
-    "style": { "img": "vocabulary/icons/fruits.png" }
+    "style": { "img": "images/icons/fruits.png" }
   },
   "foods": {
     "name": { "ru": "продукты", "he": "מזון" },
-    "style": { "img": "vocabulary/icons/grocery-cart.png" }
+    "style": { "img": "images/icons/grocery-cart.png" }
   },
   "health": {
     "name": { "ru": "здоровье", "he": "בְּרִיאוּת" },
-    "style": { "img": "vocabulary/icons/first-aid.png" }
+    "style": { "img": "images/icons/first-aid.png" }
   },
   "home": {
     "name": { "ru": "дом" },
-    "style": { "img": "vocabulary/icons/house.png" }
+    "style": { "img": "images/icons/house.png" }
   },
   "irregular": {
     "name": { "ru": "irregular", "he": "irregular" },
@@ -49,7 +49,7 @@
   },
   "landscape": {
     "name": { "ru": "ландшафт", "he": "נוֹף" },
-    "style": { "img": "vocabulary/icons/landscape.png" }
+    "style": { "img": "images/icons/landscape.png" }
   },
   "misc": {
     "name": { "ru": "разное" },
@@ -65,7 +65,7 @@
   },
   "post": {
     "name": { "ru": "почта" },
-    "style": { "img": "vocabulary/icons/mailbox.png" }
+    "style": { "img": "images/icons/mailbox.png" }
   },
   "sport": {
     "name": { "ru": "спорт" },
@@ -81,10 +81,10 @@
   },
   "weapon": {
     "name": { "ru": "оружие", "he": "נֶשֶׁק" },
-    "style": { "img": "vocabulary/icons/gun.png" }
+    "style": { "img": "images/icons/gun.png" }
   },
   "weather": {
     "name": { "ru": "погода", "he": "מֶזֶג אֲוִיר" },
-    "style": { "img": "vocabulary/icons/weather.png" }
+    "style": { "img": "images/icons/weather.png" }
   }
 }
