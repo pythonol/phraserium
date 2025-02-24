@@ -14,6 +14,26 @@
         "he": { "W": "לא", "T": "ло" }
       }
     },
+    "there is": {
+      "forms": {
+        "ru": { "W": "есть" },
+        "en": {
+          "S": { "W": "there is", "T": "ðɛr ɪz" },
+          "P": { "W": "there are", "T": "ðɛr ɑːr" }
+        },
+        "he": { "W": "יֵשׁ", "T": "йеш" }
+      }
+    },
+    "there is no": {
+      "forms": {
+        "ru": { "W": "нету" },
+        "en": {
+          "S": { "W": "there is no", "T": "ðɛr ɪz noʊ" },
+          "P": { "W": "there are no", "T": "ðɛr ɑːr noʊ" }
+        },
+        "he": { "W": "אֵין", "T": "эйн" }
+      }
+    },
     "right": {
       "forms": {
         "ru": { "W": "верно" },
