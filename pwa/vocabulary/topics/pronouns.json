@@ -103,7 +103,6 @@
     "pronouns-possessive": {
       "order": 300,
       "orderKeep": true,
-      "expanded": true,
       "forms": {
         "ru": { "W": "притяжательные" },
         "en": { "W": "possessive" }
@@ -184,7 +183,6 @@
     "pronouns-dative": {
       "order": 400,
       "orderKeep": true,
-      "expanded": true,
       "forms": {
         "ru": { "W": "дательные" },
         "en": { "W": "dative" }
