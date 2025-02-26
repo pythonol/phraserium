@@ -851,8 +851,8 @@
           "opposite": "prop-cold"
         },
         "prop-cold": {
+          "type": "A",
           "forms": {
-            "type": "A",
             "ru": { "W": "холодный" },
             "en": { "W": "cold", "T": "koʊld" },
             "he": {
