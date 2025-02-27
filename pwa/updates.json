@@ -5,15 +5,15 @@
     "numbers": "2025-02-02T16:51:06",
     "misc": "2025-02-26T21:55:06",
     "time": "2025-02-24T19:37:18",
-    "foods": "2025-02-26T22:57:25",
+    "foods": "2025-02-27T08:57:49",
     "fruits": "2025-02-18T12:31:58",
     "landscape": "2025-01-23T23:24:17",
     "weather": "2025-01-23T23:24:51",
-    "urban": "2025-02-24T20:30:34",
+    "urban": "2025-02-27T08:42:46",
     "art": "2025-02-16T11:21:15",
     "irregular": "2025-02-26T22:15:22",
     "weapon": "2025-02-26T08:00:18"
   },
   "version": "0.8.11",
-  "cache_bypass": "ABCDEFGHIJKLMNOPQRS"
+  "cache_bypass": "ABCDEFGHIJKLMNOPQRST"
 }
