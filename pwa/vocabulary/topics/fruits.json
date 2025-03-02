@@ -69,6 +69,20 @@
             "he": { "W": "אָבוֹקָדוֹ", "T": "авокадо" }
           }
         },
+        "loquat": {
+          "style": {
+            "img": "images/fruits/loquat.webp"
+          },
+          "gender": {
+            "ru": "F",
+            "he": "M"
+          },
+          "forms": {
+            "ru": { "W": "мушмула" },
+            "en": { "W": "loquat", "T": "ˈloʊ.kwɑːt" },
+            "he": { "W": "שסק", "T": "шэсек" }
+          }
+        },
         "cherry_plum": {
           "style": {
             "img": "images/fruits/cherry_plum.webp"
