@@ -15,18 +15,6 @@
     "name": { "ru": "машина" },
     "style": { "icon": "drive_eta" }
   },
-  "clothes": {
-    "name": { "ru": "одежда" },
-    "style": { "icon": "checkroom" }
-  },
-  "compare": {
-    "name": { "ru": "сравнение" },
-    "style": { "img": "images/icons/scales.png" }
-  },
-  "dir": {
-    "name": { "ru": "направл." },
-    "style": { "icon": "navigation" }
-  },
   "fruits": {
     "name": { "ru": "плоды", "he": "פֵּרוֹת" },
     "style": { "img": "images/icons/fruits.png" }
@@ -38,10 +26,6 @@
   "health": {
     "name": { "ru": "здоровье", "he": "בְּרִיאוּת" },
     "style": { "img": "images/icons/first-aid.png" }
-  },
-  "home": {
-    "name": { "ru": "дом" },
-    "style": { "img": "images/icons/house.png" }
   },
   "irregular": {
     "name": { "ru": "irregular", "he": "irregular" },
@@ -63,6 +47,10 @@
     "name": { "ru": "числа", "he": "מספרים" },
     "style": { "icon": "numbers" }
   },
+  "people": {
+    "name": { "ru": "люди", "he": "אֲנָשִׁים" },
+    "style": { "img": "images/icons/family.png" }
+  },
   "post": {
     "name": { "ru": "почта" },
     "style": { "img": "images/icons/mailbox.png" }
@@ -70,6 +58,10 @@
   "sport": {
     "name": { "ru": "спорт" },
     "style": { "icon": "sports_football" }
+  },
+  "things": {
+    "name": { "ru": "вещи", "he": "דברים" },
+    "style": { "img": "images/icons/things.png" }
   },
   "time": {
     "name": { "ru": "время" },
