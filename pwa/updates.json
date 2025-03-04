@@ -9,11 +9,11 @@
     "fruits": "2025-03-02T14:13:49",
     "landscape": "2025-03-04T17:03:44",
     "weather": "2025-01-23T23:24:51",
-    "urban": "2025-03-04T18:02:47",
+    "urban": "2025-03-04T18:16:00",
     "art": "2025-02-16T11:21:15",
     "irregular": "2025-03-03T10:19:24",
     "weapon": "2025-02-26T08:00:18"
   },
   "version": "0.8.20",
-  "cache_bypass": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  "cache_bypass": ""
 }
