@@ -36,7 +36,7 @@
     "style": { "img": "images/icons/landscape.png" }
   },
   "misc": {
-    "name": { "ru": "разное" },
+    "name": { "ru": "разное", "he": "שונות" },
     "style": { "icon": "bookmark" }
   },
   "pronouns": {
@@ -56,7 +56,7 @@
     "style": { "img": "images/icons/mailbox.png" }
   },
   "sport": {
-    "name": { "ru": "спорт" },
+    "name": { "ru": "спорт", "he": "ספּוֹרט" },
     "style": { "icon": "sports_football" }
   },
   "things": {
@@ -64,7 +64,7 @@
     "style": { "img": "images/icons/things.png" }
   },
   "time": {
-    "name": { "ru": "время" },
+    "name": { "ru": "время", "he": "זְמַן" },
     "style": { "icon": "schedule" }
   },
   "urban": {
