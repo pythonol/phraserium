@@ -758,6 +758,16 @@
         }
       }
     },
+    "fire": {
+      "order": 81,
+      "style": { "emoji": "🔥" },
+      "gender": { "ru": "M", "he": "F" },
+      "forms": {
+        "ru": { "W": "огонь" },
+        "en": { "W": "fire", "T": "faɪər" },
+        "he": { "W": "אֵשׁ", "T": "эш" }
+      }
+    },
     "lightning": {
       "order": 81,
       "style": {
