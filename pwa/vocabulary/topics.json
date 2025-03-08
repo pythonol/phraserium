@@ -37,15 +37,15 @@
   },
   "misc": {
     "name": { "ru": "разное", "he": "שונות" },
-    "style": { "icon": "bookmark" }
+    "style": { "icon": "extension" }
   },
   "pronouns": {
     "name": { "ru": "местоимения", "he": "כינויי" },
-    "style": { "icon": "diversity_3" }
+    "style": { "icon": "attribution" }
   },
   "numbers": {
     "name": { "ru": "числа", "he": "מספרים" },
-    "style": { "icon": "numbers" }
+    "style": { "icon": "pin" }
   },
   "people": {
     "name": { "ru": "люди", "he": "אֲנָשִׁים" },

@@ -594,6 +594,72 @@
       }
     },
 
+    "pronouns-indefinite": {
+      "order": 950,
+      "forms": {
+        "ru": { "W": "неопределённые" },
+        "en": { "W": "indefinite" }
+      },
+      "nested": {
+        "somebody": {
+          "forms": {
+            "ru": { "W": "кто-то" },
+            "en": { "W": "somebody", "T": "ˈsʌmbɑːdi" },
+            "he": { "W": "מישהו", "T": "мишэу" }
+          }
+        },
+        "something": {
+          "forms": {
+            "ru": { "W": "что-то" },
+            "en": { "W": "something", "T": "ˈsʌmθɪŋ" },
+            "he": { "W": "משהו", "T": "машу" }
+          }
+        },
+        "anybody": {
+          "forms": {
+            "ru": { "W": "кто-нибудь" },
+            "en": { "W": "anybody", "T": "ˈɛniˌbɑːdi" },
+            "he": { "W": "מישהו", "T": "мишэу" }
+          }
+        },
+        "anything": {
+          "forms": {
+            "ru": { "W": "что-нибудь" },
+            "en": { "W": "anything", "T": "ˈɛniθɪŋ" },
+            "he": { "W": "משהו", "T": "машу" }
+          }
+        },
+        "someone's": {
+          "forms": {
+            "ru": { "W": "чей-то" },
+            "en": { "W": "someone's", "T": "ˈsʌmwʌnz" },
+            "he": { "W": "שׁל מישהו", "T": "шель мишэу" }
+          }
+        },
+        "anyone's": {
+          "forms": {
+            "ru": { "W": "чей-нибудь" },
+            "en": { "W": "anyone's", "T": "ˈɛniwʌnz" },
+            "he": { "W": "שׁל מישהו", "T": "шель мишэу" }
+          }
+        },
+        "some": {
+          "forms": {
+            "ru": { "W": "какой-то" },
+            "en": { "W": "some", "T": "sʌm" },
+            "he": { "W": "איזשהו", "T": "эйзешу" }
+          }
+        },
+        "any": {
+          "forms": {
+            "ru": { "W": "какой-либо" },
+            "en": { "W": "any", "T": "ˈɛni" },
+            "he": { "W": "כלשהו", "T": "кольшу" }
+          }
+        }
+      }
+    },
+
     "pronouns-interrogative": {
       "order": 1000,
       "forms": {
