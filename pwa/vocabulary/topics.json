@@ -8,7 +8,7 @@
     "style": { "icon": "account_balance" }
   },
   "cafe": {
-    "name": { "ru": "кафе" },
+    "name": { "ru": "кафе", "he": "בֵּית קָפֶה" },
     "style": { "img": "images/icons/fast-food.png" }
   },
   "car": {
