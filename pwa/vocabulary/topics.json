@@ -4,7 +4,7 @@
     "style": { "img": "images/icons/palette.png" }
   },
   "bank": {
-    "name": { "ru": "банк" },
+    "name": { "ru": "банк", "he": "בַּנְק" },
     "style": { "icon": "account_balance" }
   },
   "cafe": {
