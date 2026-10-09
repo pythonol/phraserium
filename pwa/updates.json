@@ -1,6 +1,7 @@
 {
-  "topic": "2026-10-09T00:00:46",
+  "topic": "2026-10-09T09:56:53",
   "topics": {
+    "core": "2026-10-09T10:00:18",
     "pronouns": "2026-10-08T23:22:57",
     "numbers": "2026-10-08T23:22:57",
     "time": "2026-10-08T23:22:57",
@@ -19,5 +20,5 @@
     "irregular": "2025-03-03T10:19:24"
   },
   "version": "0.8.33",
-  "cache_bypass": "ABCDEFGH"
+  "cache_bypass": "ABCDEFGHI"
 }

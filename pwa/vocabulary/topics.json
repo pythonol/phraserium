@@ -1,4 +1,8 @@
 {
+  "core": {
+    "name": { "ru": "основа", "he": "בָּסִיס" },
+    "style": { "icon": "star" }
+  },
   "art": {
     "name": { "ru": "искусство", "he": "אומנות" },
     "style": { "img": "images/icons/palette.png" }
