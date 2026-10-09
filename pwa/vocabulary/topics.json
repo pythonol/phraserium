@@ -15,10 +15,6 @@
     "name": { "ru": "машина" },
     "style": { "icon": "drive_eta" }
   },
-  "cutlery": {
-    "name": { "ru": "столовые приборы", "he": "סַכּוּ״ם" },
-    "style": { "icon": "restaurant" }
-  },
   "fruits": {
     "name": { "ru": "плоды", "he": "פֵּרוֹת" },
     "style": { "img": "images/icons/fruits.png" }
@@ -26,6 +22,10 @@
   "foods": {
     "name": { "ru": "продукты", "he": "מזון" },
     "style": { "img": "images/icons/grocery-cart.png" }
+  },
+  "house": {
+    "name": { "ru": "дом", "he": "בַּיִת" },
+    "style": { "img": "images/icons/house.png" }
   },
   "health": {
     "name": { "ru": "здоровье", "he": "בְּרִיאוּת" },
