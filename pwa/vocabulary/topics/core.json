@@ -466,29 +466,26 @@
     "@:car": {
       "order": 45
     },
-    "@:bus": {
+    "@:room": {
       "order": 46
     },
-    "@:room": {
+    "@:door": {
       "order": 47
     },
-    "@:door": {
+    "@:window": {
       "order": 48
     },
-    "@:window": {
+    "@:table": {
       "order": 49
     },
-    "@:table": {
+    "@:key": {
       "order": 50
     },
-    "@:key": {
+    "@:school": {
       "order": 51
     },
-    "@:school": {
-      "order": 52
-    },
     "language": {
-      "order": 53,
+      "order": 52,
       "gender": {
         "ru": "M",
         "he": "F"
@@ -524,45 +521,8 @@
         }
       }
     },
-    "phone": {
-      "order": 54,
-      "gender": {
-        "ru": "M",
-        "he": "M"
-      },
-      "forms": {
-        "ru": {
-          "S": {
-            "W": "телефон"
-          },
-          "P": {
-            "W": "телефоны"
-          }
-        },
-        "en": {
-          "S": {
-            "W": "phone",
-            "T": "foʊn"
-          },
-          "P": {
-            "W": "phones",
-            "T": "foʊnz"
-          }
-        },
-        "he": {
-          "S": {
-            "W": "טֶלֶפוֹן",
-            "T": "тэлефо́н"
-          },
-          "P": {
-            "W": "טֶלֶפוֹנִים",
-            "T": "тэлефони́м"
-          }
-        }
-      }
-    },
     "message": {
-      "order": 55,
+      "order": 53,
       "gender": {
         "ru": "N",
         "he": "F"
@@ -599,37 +559,34 @@
       }
     },
     "@:food": {
-      "order": 56
+      "order": 54
     },
     "@:water": {
-      "order": 57
+      "order": 55
     },
     "@:bread": {
-      "order": 58
-    },
-    "@:coffee": {
-      "order": 59
+      "order": 56
     },
     "@:store": {
-      "order": 60
+      "order": 57
     },
     "@:price": {
-      "order": 61
+      "order": 58
     },
     "@:number": {
-      "order": 62
+      "order": 59
     },
     "@:truth": {
-      "order": 63
+      "order": 60
     },
     "@:start": {
-      "order": 64
+      "order": 61
     },
     "@:end": {
-      "order": 65
+      "order": 62
     },
     "side": {
-      "order": 66,
+      "order": 63,
       "gender": {
         "ru": "F",
         "he": "M"
@@ -666,7 +623,7 @@
       }
     },
     "part": {
-      "order": 67,
+      "order": 64,
       "gender": {
         "ru": "F",
         "he": "M"
@@ -703,7 +660,7 @@
       }
     },
     "idea": {
-      "order": 68,
+      "order": 65,
       "gender": {
         "ru": "F",
         "he": "M"
@@ -740,7 +697,7 @@
       }
     },
     "help": {
-      "order": 69,
+      "order": 66,
       "gender": {
         "ru": "F",
         "he": "F"
@@ -760,7 +717,7 @@
       }
     },
     "head": {
-      "order": 70,
+      "order": 67,
       "gender": {
         "ru": "F",
         "he": "M"
@@ -796,8 +753,28 @@
         }
       }
     },
+    "face": {
+      "order": 68,
+      "gender": {
+        "ru": "N",
+        "he": "M"
+      },
+      "forms": {
+        "ru": {
+          "W": "лицо"
+        },
+        "en": {
+          "W": "face",
+          "T": "feɪs"
+        },
+        "he": {
+          "W": "פָּנִים",
+          "T": "пани́м"
+        }
+      }
+    },
     "hand": {
-      "order": 71,
+      "order": 69,
       "gender": {
         "ru": "F",
         "he": "F"
@@ -833,8 +810,45 @@
         }
       }
     },
+    "leg": {
+      "order": 70,
+      "gender": {
+        "ru": "F",
+        "he": "F"
+      },
+      "forms": {
+        "ru": {
+          "S": {
+            "W": "нога"
+          },
+          "P": {
+            "W": "ноги"
+          }
+        },
+        "en": {
+          "S": {
+            "W": "leg",
+            "T": "lɛɡ"
+          },
+          "P": {
+            "W": "legs",
+            "T": "lɛɡz"
+          }
+        },
+        "he": {
+          "S": {
+            "W": "רֶגֶל",
+            "T": "рэ́гель"
+          },
+          "P": {
+            "W": "רַגְלַיִים",
+            "T": "рагла́им"
+          }
+        }
+      }
+    },
     "eye": {
-      "order": 72,
+      "order": 71,
       "gender": {
         "ru": "M",
         "he": "F"
@@ -871,7 +885,7 @@
       }
     },
     "body": {
-      "order": 73,
+      "order": 72,
       "gender": {
         "ru": "N",
         "he": "M"
@@ -908,7 +922,7 @@
       }
     },
     "heart": {
-      "order": 74,
+      "order": 73,
       "gender": {
         "ru": "N",
         "he": "M"
@@ -927,20 +941,111 @@
         }
       }
     },
+    "voice": {
+      "order": 74,
+      "gender": {
+        "ru": "M",
+        "he": "M"
+      },
+      "forms": {
+        "ru": {
+          "S": {
+            "W": "голос"
+          },
+          "P": {
+            "W": "голоса"
+          }
+        },
+        "en": {
+          "S": {
+            "W": "voice",
+            "T": "vɔɪs"
+          },
+          "P": {
+            "W": "voices",
+            "T": "ˈvɔɪ.sɪz"
+          }
+        },
+        "he": {
+          "S": {
+            "W": "קוֹל",
+            "T": "коль"
+          },
+          "P": {
+            "W": "קוֹלוֹת",
+            "T": "коло́т"
+          }
+        }
+      }
+    },
+    "strength": {
+      "order": 75,
+      "gender": {
+        "ru": "F",
+        "he": "M"
+      },
+      "forms": {
+        "ru": {
+          "S": {
+            "W": "сила"
+          },
+          "P": {
+            "W": "силы"
+          }
+        },
+        "en": {
+          "S": {
+            "W": "strength",
+            "T": "strɛŋθ"
+          },
+          "P": {
+            "W": "strengths",
+            "T": "strɛŋθs"
+          }
+        },
+        "he": {
+          "S": {
+            "W": "כֹּחַ",
+            "T": "ко́ах"
+          },
+          "P": {
+            "W": "כּוֹחוֹת",
+            "T": "кохо́т"
+          }
+        }
+      }
+    },
+    "health": {
+      "order": 76,
+      "gender": {
+        "ru": "N",
+        "he": "F"
+      },
+      "forms": {
+        "ru": {
+          "W": "здоровье"
+        },
+        "en": {
+          "W": "health",
+          "T": "hɛlθ"
+        },
+        "he": {
+          "W": "בְּרִיאוּת",
+          "T": "бриу́т"
+        }
+      }
+    },
     "@:doctor": {
-      "order": 75
-    },
-    "@:teacher": {
-      "order": 76
-    },
-    "@:student": {
       "order": 77
     },
-    "@:neighbor": {
+    "@:teacher": {
       "order": 78
     },
+    "@:neighbor": {
+      "order": 79
+    },
     "guest": {
-      "order": 79,
+      "order": 80,
       "gender": {
         "ru": "M",
         "he": "M"
@@ -972,43 +1077,6 @@
           "P": {
             "W": "אוֹרְחִים",
             "T": "орхи́м"
-          }
-        }
-      }
-    },
-    "boss": {
-      "order": 80,
-      "gender": {
-        "ru": "M",
-        "he": "M"
-      },
-      "forms": {
-        "ru": {
-          "S": {
-            "W": "начальник"
-          },
-          "P": {
-            "W": "начальники"
-          }
-        },
-        "en": {
-          "S": {
-            "W": "boss",
-            "T": "bɒs"
-          },
-          "P": {
-            "W": "bosses",
-            "T": "ˈbɒs.ɪz"
-          }
-        },
-        "he": {
-          "S": {
-            "W": "בּוֹס",
-            "T": "бос"
-          },
-          "P": {
-            "W": "בּוֹסִים",
-            "T": "боси́м"
           }
         }
       }
@@ -1192,28 +1260,8 @@
         }
       }
     },
-    "music": {
-      "order": 86,
-      "gender": {
-        "ru": "F",
-        "he": "F"
-      },
-      "forms": {
-        "ru": {
-          "W": "музыка"
-        },
-        "en": {
-          "W": "music",
-          "T": "ˈmjuː.zɪk"
-        },
-        "he": {
-          "W": "מוּזִיקָה",
-          "T": "му́зика"
-        }
-      }
-    },
     "movie": {
-      "order": 87,
+      "order": 86,
       "gender": {
         "ru": "M",
         "he": "M"
@@ -1250,7 +1298,7 @@
       }
     },
     "holiday": {
-      "order": 88,
+      "order": 87,
       "gender": {
         "ru": "M",
         "he": "M"
@@ -1287,7 +1335,7 @@
       }
     },
     "vacation": {
-      "order": 89,
+      "order": 88,
       "gender": {
         "ru": "M",
         "he": "F"
@@ -1324,7 +1372,7 @@
       }
     },
     "weekend": {
-      "order": 90,
+      "order": 89,
       "gender": {
         "he": "M"
       },
@@ -1355,15 +1403,18 @@
       }
     },
     "@:weather": {
-      "order": 91
+      "order": 90
     },
     "@:Sun": {
-      "order": 92
+      "order": 91
     },
     "@:rain": {
-      "order": 93
+      "order": 92
     },
     "@:sea": {
+      "order": 93
+    },
+    "@:tree": {
       "order": 94
     },
     "dog": {
@@ -2289,16 +2340,53 @@
             }
           }
         }
-      }
+      },
+      "opposite": "stupid"
+    },
+    "stupid": {
+      "order": 55,
+      "type": "A",
+      "forms": {
+        "ru": {
+          "W": "глупый"
+        },
+        "en": {
+          "W": "stupid",
+          "T": "ˈstuː.pɪd"
+        },
+        "he": {
+          "S": {
+            "M": {
+              "W": "טִפֵּשׁ",
+              "T": "типэ́ш"
+            },
+            "F": {
+              "W": "טִפְּשָׁה",
+              "T": "типша́"
+            }
+          },
+          "P": {
+            "M": {
+              "W": "טִפְּשִׁים",
+              "T": "типши́м"
+            },
+            "F": {
+              "W": "טִפְּשׁוֹת",
+              "T": "типшо́т"
+            }
+          }
+        }
+      },
+      "opposite": "smart"
     },
     "@:quiet": {
-      "order": 55
-    },
-    "@:loud": {
       "order": 56
     },
-    "@:tasty": {
+    "@:loud": {
       "order": 57
+    },
+    "@:tasty": {
+      "order": 58
     }
   },
   "tab3": {
