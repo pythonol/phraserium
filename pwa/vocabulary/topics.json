@@ -16,7 +16,7 @@
     "style": { "img": "images/icons/fast-food.png" }
   },
   "car": {
-    "name": { "ru": "машина" },
+    "name": { "ru": "автомобиль", "he": "רֶכֶב" },
     "style": { "icon": "drive_eta" }
   },
   "fruits": {
