@@ -1139,8 +1139,23 @@
       "type": "V",
       "forms": {
         "en": {
-          "present": { "W": "be late", "T": "bi leɪt" },
-          "past": { "W": "was late", "T": "wɒz leɪt" }
+          "inf": { "W": "to be late", "T": "tuː biː leɪt" },
+          "present": {
+            "1": {
+              "S": { "W": "am late", "T": "æm leɪt" },
+              "P": { "W": "are late", "T": "ɑː leɪt" }
+            },
+            "2": { "W": "are late", "T": "ɑː leɪt" },
+            "3": {
+              "S": { "W": "is late", "T": "ɪz leɪt" },
+              "P": { "W": "are late", "T": "ɑː leɪt" }
+            }
+          },
+          "past": {
+            "S": { "W": "was late", "T": "wɒz leɪt" },
+            "P": { "W": "were late", "T": "wɜː leɪt" }
+          },
+          "future": { "W": "will be late", "T": "wɪl biː leɪt" }
         },
         "ru": {
           "inf": { "W": "опаздывать" },
